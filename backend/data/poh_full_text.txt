@@ -1,0 +1,3909 @@
+
+
+--- Page 1 ---
+TE
+CHEROKEE SIX 3OO
+INFORMATION MANUAL
+,t
+il
+
+--- Page 2 ---
+-lqo3f ,h#-
+',,*(at4a1h" {o CHEROKEE SIX 3OO\/' af j- INFORMATION
+--/ MANUAL
+Cherokee Six 3OO
+PA-32-300
+HANDBOOK PART NO. 761 -559
+
+--- Page 3 ---
+A complete or partial replacement of this manual, Part No.
+7 61 559, may be obtained only from Piper Customer Services.
+Published by
+PUBLICATIONS DEPARTMENT
+Piper Aircraft Corporation
+761 5s9
+Issued: July 1973
+u
+
+--- Page 4 ---
+APPLICABILITY
+The aircraft serial number eligibility bracket for application of this manual is 32-7aa0001
+rhrough 32-7640130. The specific application of this manual is limited to the Piper PA-32-300
+model airplane designated by serial number and registration number on the back of the title page
+of this manual.
+This manual cannot be used for operational purposes unless kept in a current status.
+REVISIONS
+The information compiled in the Pilot's Operating Manual will be kept current by revisions
+distributed to the airplane owners.
+Revision material will consist of information necessary to update the text of the present
+manual and/or to add information to cover added airplane equipment.
+I. Revisions
+Revisions will be distributed whenever necessary as complete page replacements or
+additions and strall be inserted into the manual in accordance with the instructions given below:
+l. Revision pages will replace only pages with the same page number.
+2. Insert all additional pages in proper numerical order within each section.
+3. Page numbers followed by a small letter shall be inserted in direct sequence with the
+same common numbered page.
+II. Identification of Revised Material
+Revised text and illustrations shall be indicated by a black vertical line along the left hand
+margrn of the page, opposite revised, added or deleted material. A line opposite the page
+number or section title and printing date, will indicate that.the text or illustration was
+unchanged but material was relocated to a different page or that an entire page was added.
+Black lines will indicate only current revisions with changes and additions to or deletions
+of existing text and illustrations. Changes in capitalization, spelling, punctuation or the physical
+location of material on a page will not be identified by symbols.
+III. Original Pages Issued
+The original pages issued for this manual prior to revision are given below:
+l-l through 14,2-1 through 2-19,3-l through 3-18, 4-l through +7,5-1 through 5-30,
+7-l through 7-12,8-l through 8-2,9-l through 9-12, lGl through 10-15.
+ltr
+
+--- Page 5 ---
+TABLE (lF C(II{TEI{TS
+GE}IERAI SPECIFICATIO}IS
+DESCRIPTI(I}I . AIRPLAIIE A}ID SYSTEMS
+AIRPLA]IE FUGHI MAIIUAI T.A.A. APPR(IYED
+EilIERGE}ICY PROCEDffiES I.A.A. APPROYEII
+EMERGENCY PROCEDURES
+ITHGHT A}ID BAtAilCE
+L(lADtitG lilsTRucn(Iils
+OPERATINO INSTRIICTIONS
+(lPilATING TIPS
+PERF(IRMAIICE CHARTS
+HAilDLI}IG A}ID SERYICING
+
+--- Page 6 ---
+GElt ERAt SPECtHCATt0ItS
+Performance l-l
+Weights l-2
+Power Plant . 1-2
+Fuel and Oil . . l-2
+Baggage Area l-2
+Dimensions l-3
+Landing Gear l-3
+3-View l-4
+
+--- Page 7 ---
+CHEROKEE SIX.3OO
+GENERAL SPECIFICATIONS
+PERFORMANCE
+Published ftgures are for standard airplanes flown at gross weight under standard
+:c;rditions at sea level unless otherwise stated. Performance for a specific airplane may vary
+;rom published figures depending upon the equipment installed, the conditions of engines,
+airplane and equipment, atmospheric conditions and piloting technique. Each performance
+figure below is subject to the same conditions as on the corresponding performance chart from
+which it is taken in the Performance Charts Section.
+GROSS I{EIGHTS 3400 2900
+Takeoff Ground Run, l0 o flaps, sea level (ft) 1050 7 50
+Takeoff Distance Over 5Gft Obstacle, l0 o flaps, sea level (ft) I 500 I 200
+Best Rate of Climb Speed (mpnl 105 100
+Rate of Climb (ft per min) 1050 1350
+Best Angle of Climb Speed (mph) 95
+Max Speed, sea level (mph) l?4* 175*
+Max Speed Optimum Altitude,8,300 ft,757o power(TAS) (mph) 168* l7l*
+Service Ceiline (ft) 16,250 20,000
+Absolute Ceiling (ft) 18,000 21.500
+Cruise Speed at Best Power Mixture (mph)
+657o Power, I 1,500 ft
+55% power, 15,000 ft
+Range at Best Power Mixture (mi1**
+7 5% power, 8,000 ft
+657o power, I 1,500 ft
+55% power, 15,000 ft
+Cruise Speed at Best Economy Mixture (mph)
+757o power, 8,000 ft
+657o power, I 1,400 ft
+5570 power, 15,000 ft
+Range at Best Economy Mixture (mi;**
+7 5% power, 8,000 ft
+657o power, I 1,400 ft
+55% power, 15,000 ft
+Stalling Speed, flaps down, (CAS) (mph)
+Stalling Speed, flaps up, (CAS) (mph)
+Landing Roll, flaps down, sea level (ft)
+Landing Distance Over 5&ft Obstacle, sea level (ft)
+*The speed stated is with optional wheel fairings installed. Subtract 3 mph
+not installed.**No reserve.
+GEMRAL SPECIFICATIONS
+ISSUED: JULY 12,1973t63
+155t67
+163
+780 779
+845 850
+905 935
+t66 169
+159 165
+149 t57
+850 865
+945 980
+1030 1080
+63 s8
+7r 66
+630 540
+1000 850
+if wheel fairings are
+1-1
+
+--- Page 8 ---
+CHEROKEE SIX.3OO
+GROSS WEIGHTS
+WEIGHTS
+Standard Empty Weieht (lbs)
+Maximum Useful Load (lbs)
+POWER PLANT
+Engine. Lycoming
+Rated Horsepower
+Rated Speed (rpm)
+Bore (inches)
+Stroke (inches)
+Displacement (cubic inches)
+Compression Ratio
+Dry Weight (pounds)'' Propeller (Standard)
+(Optional)*
+Propeller Diameter (inches) (Standard)
+(Optional)
+FUEL AND OIL
+Fuel Capacity (inboard) (U.S. gal)
+With Standard Auxiliary (U.S. gal)
+Oil Capacity (U.S. qts)
+Fuel, Aviation Grade (min octane)
+BAGGAGE
+Maximum Baggage (lbs)
+Baggage Space (cubic ft)
+Baggage Door Size (in.)
+*Serial nos. 74400013400 2900
+t824
+1516
+(Serial nos. 7440O0 1 through 7 6 4Q06 5 and 7 64.046:7 through
+76400',7r) rO-s4GKlAs
+(serial nos. 7640066,7640072 and up) IO-54SKlG5
+300
+2700
+).lz)
+4.3',15
+541.5
+8'7: I
+45'l
+HC-C2YK-I ( ) | 847 s-4 or HC{2YK-r( ) | 847 5D-4
+or HC-C2YK-I ( )F/F847 5D-4
+HC{2YK-I( )/847sR4 orHC{2YK-I( )F/F8475R-0
+80
+841824
+to16
+50
+84
+t2
+100/l 3o
+Forward
+100
+8
+16x22
+GENERAL SPECMCATIONS
+REVISED: FEBRUARY 2, 191 6Aft
+100
+20
+thru 7540188 only
+
+--- Page 9 ---
+CHEROKEE SD(-3OO.ll
+firDIMENSIONS
+Wing Span (ft)
+Wing Area (sq ft)
+Wing Loading (lbs per sq ft)
+Length (ft)
+Height (ft)
+Power Loading (lbs) per hp)
+LANDING GEAR
+Wheel Base (ft)
+Wheel Tread (ft)
+Tire Pressure (lbs)
+GENERAL SPECIFICATIONS
+ISSUED: JULY l2,t97gNose
+Main3 2.8
+17 4.5
+19.5
+27.7
+8.2
+I 1.3
+7.8
+10.6
+28-30
+35-40
+1-3
+
+--- Page 10 ---
+CHEROKEE SIX.3OO
+32'8.t5"
+I ,,0.,r'
+GENERAL SPECIFICATIONS
+ISSUED: JULY 12.1973 t4
+
+--- Page 11 ---
+DESCRIPTI(III
+AIRPLAIIE AllD SYSTEI'IS
+The Airplane .
+Airframe
+Engine and Propeller
+InductionSystem .. .;
+Landing Gear
+Flight Controls
+Fuel System
+Electrical System
+Vacuum System
+Instrument Panel
+Pitot-Static System
+Heating and Ventilating System
+Cabin Features
+Baggage Area
+Stall Warning
+Finish
+Air Conditioning
+Piper External Power2-l
+2-l
+2-l
+aa
+L-L
+2-4
+2-6
+a1
+2-9
+2-t3
+2-13
+2-t5
+2-15
+2-r5
+2-r8
+2-t8
+2-18
+2-r8
+2-t9
+2-i
+
+--- Page 12 ---
+CHEROKEE SIX . 3OO
+DESCRIPTION
+AIRPLANE AND SYSTEMS
+THE AIRPLANE
+The PA-32-300 is a six-place (seventh seat optional), single-engine, low-wing. all metal
+monoplane. Removable seats give the airplane a wide range of cargo and passenger loading options.
+Its large capacity, combined with an economical and powerful fuel injected 300horsepowerengine.
+rnakes this Cherokee a versatile airplane for personal or commercial use.
+AIRFRAME
+Except for the tubular steel engine mount, steel landing gear struts, other miscellaneous steel
+parts, and the dent resistant fiberglass extremities - cowling and tips of wings and tail surfaces - the
+basic airframe is of aluminum alloy.
+The fuselage is a conventional semi-monocoque structure with a cabin door on the right front
+and a cargo and passenger door on the left rear.
+The wings are attached to each side of the fuselage by the insertion'of the butt ends of the
+mainspars into a spar box carry-through which is an integral part of the fuselage structure. This
+provides, in effect, a continuous main spar with splices at each side of the fuselage. There arc also
+fore and aft attachments at the rear spar and at an auxiliary front spar.
+. The wing airfoil section is a laminar flow type, NACA65r4l5 with a maximum thickness at
+about 40Vo aft of the leading edge.
+The empennage consists of the fin, the stabilator, and the stabilator trim tab.
+ENGINE AND PROPELLER
+The Lycoming lO-5{0'KlA5 (Serial nos. 7440001 through 7640065 and 7640067 through'7ffi71 or lO-540-KlG5 (Serial nos. 764+Cf,66,7640072and up) engine installed in the PA-32'300 is
+rated at 300 horsepower at 2700 rpm. This engine has a compression ratio of 8.7 to I and required
+100/ 130 minimum octane fuel. The engine is equipped with a gearcd starter,a 60amperealternator,
+dual magnetos, vacuum pump drive, a vane-type fuel pump, and fuel injection.
+The exhaust system consists ofdual exhaust stacks routed to a single heavy gauge stainless steel
+muffler on serial numbers 7440001 through 7540188. On later models individual exhaust pipes are
+routed in pairs to three heavy gauge stainless steel mufflers. Exhaust gases are routed overboard at
+the underside of the engine cowling. The muffler (or mufflers) are surrounded by a shroud which
+provides heat for the cabin and for windshield defrosting.
+Cowling on the Cherokee Six is designed to cool the engine in all normal flight conditions.
+including protracted climb, without the use of cowl flaps or cooling flanges.
+AIRPLANE AND SYSTEMS
+REVfSED: FEBRUARY 2. 1976 2-l
+
+--- Page 13 ---
+CHEROKEE SIX.3OO
+The constant speed propeller is a Hartzell HC-C2YK- I ( )F/ F8475D-4 with a diameter of 80
+inches. The propeller is controlled by a governor mounted at the left forward side of the crankcase .
+The governor is operated by a cable from the power control quadrant.
+The power control quadrant located in the lower center of the instrument panel includes
+throttle, mixture. and propeller controls. A friction lock on the right side of the quadrant prevents
+creeping of the controls. In addition. the mixture control has a lock* to prevent activation of the
+mixture control instead of the pitch control. For information on the leaning procedure, see the
+Avco-Lycoming Operator's Manual.
+INDUCTION SYSTEM
+On Serial Numbers 74y',0001 through 7540188, the Induction Air for the engine enters an
+opening in the nose cowl below the propeller and is picked up by a large air duct. The air is directed
+through a filter and on to the servo regulator. Should the filter become blocked, a springJoaded
+door in the air box between the lilter and the servo regulator opens automatically. The door may
+also be opened manually by a control located on the right side of the quadrant.
+,,: Qn Serial Numbers 764000 | and up, an induction scoop is located on the left side of the lower
+cbwl. An intake air box is attached to the inside of the cowl adjacent to the air filter box. The filter
+box is located at the aft end of the induction scoop. Access to the filter is gained through a
+detachable plate located on the outside of the lower cowl. The intake air box incorporates a
+manually operated two-way valve designed to allow induction air either to pass through the filter or
+to bypass the filter and supply heated air directly to the engine.
+Alternate air selection insures induction air flow should the filter become blocked. Since the air
+is heated, the alternate air system offers protection against induction system blockage caused by
+snow or freezing rain, or by the freezing of moisture accumulated in the induction air filter.
+Alternate air is unfiltered; therefore, it should not be used during ground operation when dust or
+other contaminants might enter the system. The primary (through the filter) induction source
+should always be used for takeoffs. On serial numbers 7640001 and up, the control is operated by
+pressing the knob to the left to clear the retaining gate and then moved in the desired direction.
+The Bendix RSA-lOED I type fuel injection system consists of a servo regulator which meters
+fuel flow in proportion to airflow to the engine, giving the proper fuel-air mixture at all engine
+speeds, and a fuel flow divider which receives the metered fuel and accurately divides the fuel flow
+among the individual cylinder fuel nozzles.
+A combination fuel flow indicator and manifold pressure gauge is installed in the left side of the
+instrument panel. The fuel flow indicator is connected to the fuel flow divider and monitors fuel
+pressure. The instrument converts fuel pressure to an accurate indication of fuel flow in gallons per
+hour and percentage of cruise power.
+fSerial nos. 7540001 and up
+AIRPLANE AND SYSTEMS
+REYISED: JULY 17.l97S 2-2
+
+--- Page 14 ---
+CHEROKEE SIX.3OO
+Throttle Quadrant and Console
+AIRPLANE AND SYSTEMS
+REVISED: ruLY 17,1975oN sER. NOS. 7640m1 AND UP,
+THE CONTROL KNOB MUST BE
+PRESSED TO THE LEFT TO
+CLEAR THE RETAINING GATE
+PRIOR TO SELECTING THE
+DESIRED POSITION.
+: -_------:::::\
+fir--Em
+
+--- Page 15 ---
+CHEROKEE SIX.3OO
+LANDING GEAR
+All three landing gear use Cleveland 6.00 x 6 wheels. The main gear have brake drums and
+Cleveland double disc hydrualic brake assemblies. The nose wheel carries a 6.00 x 6 four or six
+ply tire and the main gear use 6.00 x 6 six ply tires. All three tires are tube type.
+The nose gear is steerable using a combination of full rudder pedal travel and brakes. The
+nose gear can be tumed 24o each side of center. A spring device is incorporated in the rudder
+pedal torque tube assembly to aid in rudder centering and to provide rudder trim. The nose gear
+also includes a shimmy dampener.
+The oleo struts,are of the air-oil type. The normal extensions, arc,3-l l4 inches. for the nose
+gear and 4l 12 inches for the main gear under normal static load (empg weight of airplane plus
+full fuel and oil).
+The brakes are operated by toe pedals attached to the left rudder pedals or by a hand lever
+and master cylinder located below and behind the left center of the instrument sub-panel.
+Optional toe brakes are available for the right rudder pedals. Hydraulic cylinden are located
+above each pedal and adjacent to the hand lever. The brake fluid reservoir is on the top left
+front of the fue wall. The parking brake is incorporated in the lever brake and is engaged by
+p'uling back on the lever and depressing the knob attached to the top of the handle. To release
+the parking brake, pull back on the brake lever to disengage the catch; then allow the handle to
+sri'ing forward.
+NRPI.ANE AND SYSTEMS
+REVISED: NOVEMBER 6, 1974 24
+
+--- Page 16 ---
+;/
+\
+\-i-\CHEROKEE SIX - 3OO
+Main Wheel Assemblv
+AIRPLAI{E AND SYSTEMS
+ISSUED: JULY 12,1973
+
+--- Page 17 ---
+CHEROKEE SIx.3OO
+Console
+FUGHT CONTROLS
+Dual controls, with a cable system between the controls and the surfaces, are installed as
+standard equipment.
+The horizontal tail is of the all-movable slab type (stabilator). The stabilator provides extra
+stability and controllability with less size, drag, and weight than conventional tail surfaces.
+An anti-servo tab which also acts as a longitudinal trim tab, is located on the horizontal
+tail. This tail is actuated by a control mounted on the control tunnel between the front seats.
+The ailerons are provided with a differential action which tends to eliminate adverse yaw in
+turning maneuver and to reduce the amount of coordination required in normal furns.
+The flaps are manually operated, balanced for light operating forces, and spring-loaded to
+retum to the up position. A past-center lock incorporated in the actuating linkage holds the flap
+when it is in the up position so that it may be used as a step on the right side. Since the flap will
+not support a step load except in the full up position, it should be completely retracted when
+the airplane is on the ground. The flaps have three extended positions, 10, 25, and 40 degrees.
+AIRPI.AI{E AI{D SYSTEMS
+ISSUED: JULY 12. 1973 24
+
+--- Page 18 ---
+CHEROKEE SIX . 3OO
+FUEL SYSTEM
+The standard fuel capacity of the Cherokee Six is 84 gallons, all of which is usable except
+for approximately one pint in each of the four tanks. The two main inboard tanks, which hold
+25 gallons each, ate attached to the wing structure with screws and nut plates and can be
+removed easily for service or inspection. The tip tanks are constructed of resin-impregnated
+fiberglass, and each one holds l7 gallons.
+When using less than the standard 84 gallon capacity of the tanks, fuel should be distributed
+equally between each side. The tip tanks should always be filled first, and fuel from the main tanks
+should be used first. All weight in excess of 3ll2 pounds must be in fuel weight only.
+The fuel selector control is located below the center of the instrument panel on the sloping
+face of the control tunnel. It has five positions, one position corresponding to each of the four
+tanks plus an OFF position.
+To avoid the accumulation of water and sediment, the fuel system should be drained daily
+prior to first flight and after refueling. Each tank is equipped with an individual quick drain
+located at the lower inboard rear comer of the tank. The fuel strainer and a system quick drain
+valve are located in the fuselage at the lowest p<irint of the fuel system. It is important that the
+fuel system be drained in the following manner:
+l. Drain each tank through its individual quick drain located at the lower inboard rear
+corner of the tank, making sure that enough fuel has flowed to ensure the remorral of
+all water and sediment.
+2. Place a container beneath the fuel sump drain outlet located under the fuselage. A
+special container is fumished for this operation.
+3. Drain the fuel strainer by pressing down on the lever located on the right side o,f the
+cabin on the forward edge of the wing spar housing. Move the selector through the
+following sequence: OFF position, left tip, left main, right main, and right tip while
+draining the strainer. Make sure that enough fuel has flowed to drain the fuel line
+between each tank outlet and the fuel strainer, as well as the strainer itself. With full
+fuel tanks, it will take approximately I I seconds to drain all the fuel in one of the
+fuel lines from the tip tank to the strainer, and approximately 6 seconds to drain all
+of the fuel from the line from either main tank to the fuel strainer. When the tanks
+are less than full, it will take a few seconds longer.
+4. Examine the contents of the container placed under the fuel sump drain outlet. When
+the fuel flow is free of water and sediment, close the drain and dispose of the
+contents of the bottle.
+CAUTION
+When draining fuel, care should be taken to ensure that no fre
+hazard exists before starting the engine.
+After using the undeneat quick drain, check from the outside to make sure that it has
+closed completely and is not leaking.
+AIRPLANE A}.ID SYSTEMS
+REVISED: DECEMBER 15. l9?t L7
+
+--- Page 19 ---
+o
+trtnoxi!tlt(n
+X
+a
+t,
+()
+.rJ
+I(!
+(A
+.a
+o
+U)c)
+(D
+et
+o
+H
+-Fu2Fatse>vt2
+9rdk>czr.ru4va
+-||(N(a' ;.1
+i;fdi<u) ut:-'i,.r:.::. ., :.:;ii
+FLOW
+DISTRIBUTION
+FUEL NOZZLES
+FUEL INJECTOR
+THROTTLE
+LEFT TIP TANK LEFT MAIN TANKVENT
+FUEL y'
+PRESSUREFUEL SELECTOR
+T
+RIGHT MAIN TANK RIGHT TIP TANK GAUGE FUELFUEL
+SYSTEM
+DRAIN
+LEVERSELECTOR
+CONTROL
+/ FUEL TANK
+TSELECTOR VALVE
+FUEL QUANTITY GAUGES
+
+--- Page 20 ---
+CHEROKEE SIX - 3OO
+\
+s
+. .---..-.-.=----.....-_\_
+__=
+\\.--\\_ =-=\---.-\-
+,/-T-(A\----
+l;,{'4--l| )WAatfry \\ \
+v-\\-.
+\\mN
+Ll i@s;
+Fuel Drain Lever
+Fuel quantity gauges for each of the four tanks are located in the engine l3uge cluster on the left
+side of the instrument panel. A fuel pressure indictor is also incorporated in the engine gauge cluster.
+An electric fuel pump is provided for use in case of failure of the engine driven pump. The
+electric pump operates from a single switch and independent circuit protector. It should be ON for
+all takeoffs and landings.
+ELECTRICAL SYSTEM
+The l4-volt electrical system includes a l2-volt brttery for starting and to back up alternator
+output. Electrical power is supplied by a 60 ampere rlternaior. The battery, a master switch relay, a
+voltage regulator and an overvoltage relay are located beneath the floor of the forward baggage
+compartnient, and access is obtained by removing the floor.
+Electricel switches are located on a panel to the pilot's left and all circuit breakers are on the
+lower right instrument panel behind a decorative door. Two thumb-wheel rheostat switches to the
+left of the circuit breakers control the navigation lights and the intensity of the instrument panel
+lights.
+AIRPLANE AND SYSTEMS
+REVISED: JUNE 20,1974lil
+l
+
+--- Page 21 ---
+cHEROttEE SrX-300
+Standard electrical accessories include the starter. the electric fuel pump, the stall warning
+indicator. the cigar lighter, the ammeter, and the annunciator panel*.
+The annunciator panel* includes alternator and low oil pressure indicator lights. When the
+optional gyro system is installed, the annunciator panel also includes a low vacuum indicator light.
+The annunciator panel lights are provided only as a warning to the pilot that a system may not be
+operating properly. and that he should check and monitor the applicable system gauge to determine
+when or if any necessary action is required.
+Optional electrical tccessories include the navigation lights. an anti-collision light, and
+instrument panel lighting.
+Circuit provisions are made to handle a full complernent of communications and navigational
+equipment.
+The alternator system offers many advantages over a generator system. The main advantage is
+full electrical power output at much lower engine speed. which results in improved radio and
+electrical equipment operation. Since the alternator output is available all the time, the battery will
+be charging almost continuously. This will make cold weather starting easier.
+The ammeter in the alternator system displays in amperes the load placed on the alternator. It
+does not indicate battery discharge. With all electrical equipment off (except the masterswitch)the
+arirmeter will be indicating the amount of charging current demanded by the battery. As each item of
+electrical equipment is turned on, the current will increase to a total appearing on the ammeter. This
+t6tal includes the battery. The maximum continuous load for night flight, with radios on, is about 30
+amperes. This 30 ampere value, plus approximately 2 amperes for a fully charged battery, will
+appear continuously under these flight.conditions.
+The msster switch is a split switch with the left half operating the master relay and the right half
+energizing the alternator. This switch is interlocked so that the alternator cannot be operated
+without the battery. For normal operation, be sure that both halves are turned on.
+If no output is indicated by the ammeter during flight, reduce the electrical load by turning off
+all unnecessary electrical equipment. Check both the 5 ampere field breaker and the 50 ampere
+output breaker and reset if open. If neither circuit breaker is open, turn off the alternator switch for I
+second to reset the ovewoltage relay. If the ammeter continues to indicate no output, turn off the
+alternator switch; maintain a minimum electrical load; and terminate the flight as soon as practical.
+Maintenance on the alternator should prove to be a minor factor. Should service be required,
+contact a Piper Dealer.
+| 'Seriat nos. 7540001 and up
+AIRPLANE AND SYSTEMS
+REVISED: JUNE 20,19742-10
+
+--- Page 22 ---
+CHEROKEE SIX.3OO
+iir
+,l
+iliSTARTER
+swrTcH
+ALTERNATOR
+OUTPUT
+G/P
+STAFTTER
+SOLENOID
+ALIERNATOR
+i souRc€-POWER
+L_ _ _ __ _'_ _ ___!h RELAY ENERGTZTNG CtRCutT
+I\ IA BATTERY
+Alternator and starter schematic (ser. Nos. 7440oal through 744olg2)
+AIRPLAI{E AND SYSTEMS
+REYISED: JUNE 20.1974 2-tl
+
+--- Page 23 ---
+CIIEROKEE SIX - 3OO
+t^:i
+5A
+(IN LINE)
+STAR TER
+swrTcH
+WARN
+LIGHT
+STARTER
+SOLENOID
+EXTERNAT
+POWER
+RECEPTACLErlIF
+F
+_ _ _ _ollrgry3L_ ___I
+I
+:
+'t,ASTERswrTcH
+: - f - ; - ; - -.- - - y'i,_reanaron
+; o\/ \zrz-{.-oli sounce-po r \, \,'\fff i souRcE-powER
+L_ _ _ _ __gh RELAY EtiERCtZ[{GC|RCU|T
+I
+7540001 and up)
+AIRPL{,NE AND SYSTEMS
+ISSUED: ruNE 20,19742-tlaAlternator and Starter Schematic (Ser. Nos.
+
+--- Page 24 ---
+CIIEROKEE SIX - 3OO
+on
+o
+J>ul
+az
+SO
+*q
+FJu u.t:(o(o
+Yzoi
+t;
+l(
+O IJJ
+!zoo
+Circuit Breaker Panel
+AIRPLANE AND SYSTEMS
+REVISED: JULY 17.19752-12
+
+--- Page 25 ---
+CHEROKEE SIX - 3OO
+VACI,JUM SYSTEM
+The vacuum system employed to operate the gyro instruments includes an engine-driven
+dry vacuum pump, a vacuum regulator valve, and the tubing necessary to complete the system.
+The use of a dry type vacuum pump eliminates the need for an oil-air separator and the
+hardware necessary for its installation.
+The vacuum gauge is mounted on the right side of the instrument panel. The gauge is
+calibrated in inches of mercury and indicates the amount of suction created by the
+engine-driven vacuum pump. As the systern filter becomes clogged or the lines obstructed, the
+gauge will show a decrease in pressure (a low vacuum indicator light is provided in the
+annunciator panel*). Do not reset the regulator until the filter and lines have been checked.
+A vacuum regulator valve is incorporated in the system to control vacuum pressure to the
+gyro instruments. The regulator valve is located under the instrument panel. Access to the valve
+for maintenance and adjustment is gained from below the instrument panel. The regulator
+should be set so that the vacuum gauge reads 5.0 t .l inches of mercury with the engine running
+at medium RPM after warm-up.
+INSTRUMENT PANEL
+The instrument panel of the Cherokee Six is designed to accommodate the customary
+advanced flight instruments and the normally required power plant instruments. The artificial
+horizon and directional gyro are vacuum operated and are located in the center of the left hand
+instrument panel. The vacuum gauge is located on the right hand instrument panel. The turn
+indicator, on the left side, is electrically operated.
+A natural separation of the flight group and the power group is achieved by the placement
+of the flight group in the upper instrument panel and the power group in the center and lower
+instrument panels. The radios are located in the center section of the panel, and the circuit
+breakers are in the lower right behind a decorative door.
+An annunciator panel* is mounted in the upper instrument panel to warn the pilot of a
+possible malfunction in the alternator, oil pressure, or vacuum systems.
+rSerial nos. 7540001 and up
+AIRPI.ANE AND SYSTEMS
+REVISED: JLJNE 20,1974 2-13
+
+--- Page 26 ---
+b.)
+I
++
+a
+g
+(D
+5
+FU
+5(D
+EEfrF>ry
+ts1o>p3
+q>ezFU4vD
+-.{{ut
+:.rl:FIi3v.AoiErdFox
+Ftl
+FI
+v2
+X
+(.l)oo
+I. MASTER SWITCH
+2. ACCESSORY SWITCHES
+3. STALL WARNING LIGHT
+4. RADIO COMPASS
+5, CLOCK
+6. TURN INDICATOR
+7. AIRSPEED INDTCATOR
+8. OIRECTIONAL GYRO
+9. ARTIFICTAL HORIZON
+IO. VERTICAL SPEED
+INDICATOR
+II. ALTIMETER
+12, voR/tts rNDtcAToR
+t3. voR/il._s tNDTCATOR
+I4. TRANSPONOER
+I5. MARKER BEACON LIGHTS
+I6. MAGNETIC COMPASS17. AUDIO SELECTOR PANEL
+ll. NAv/coM TRANSCETVERS
+I9. ADF RADIO
+20. oME RAOTO
+2I. CIGAR LIGHTER
+22. AUTOCONTROL
+23. ENG]NE INST. CLUSTER
+24. RADIO COUPLER
+25, TRANSMITTER SELECTOR
+26. PITCH TRIM SW]TCH
+27. MAGNETO/STARTER
+swtTcH
+28. MANIFOLD PRESS/FUEL FLOW GAUGE
+29. FUEL GAUGES
+30. TACHOMETER
+3I. MICROPHONE
+32. THROTTLE GIUADRANT33. FRICTION LOCK
+3I. ALTERNATE AIR
+CONTROL
+35. RADIO DIMMING LIGHTS
+36. EGT INDICATOR
+37. GYRO SUCTION GAUGE
+38. CIRCUIT BREAKER PANEL
+39. CLIMATE CONTROL
+CENTER
+/t0. ClSCU|T BREAKER COVER (ON
+EARLY MODELS ONLY)
+41. M|XTURE CONTROL LOCK (SER,
+Nos.75il000l AND UPI
+42. ANl.lUNclAToR PANEL (sER. Nos.
+7540001 ANO UP)
+43. ENGINE HOUR METER
+
+--- Page 27 ---
+CHEROKEE SIX - 3OO
+PITOT-STATIC SYSTEM
+The system supplies both pitot and static pressure for the airspeed indicator. altirneter and
+vertical speed indicator (wlten installed).
+Pitot and static pressure are picked up by the pitot head on the bottom of the left wing.
+An optional heated pitot head, which alleviates problems with icing or heavy rain, is available.
+The switch for pitot heat is located on the lower left instrument panel.
+To prevent bugs and water from entering the pitot antl static pressure holes when tlte
+airplape is parked, a cover should be placed over the pitot head. A partially or completely
+blocked pitot head will give erratic or zero readings on the instruments'
+NOTE
+During preflight, check to make sure the pitot cover is removed.
+HEATING AND VENTILATING SYSTEM
+Heat for the cabin interior and the defroster system is drawn from a heater muff attached
+to the exhaust system. Controls for these systems are located on the lower right side of the
+instrunrent panel.
+NOTE
+If unusual odors are detected, turn off tlre heat and inspect the
+system for leaks.
+Fresh air inlets are located in the leading edge of each wing at the intersection of thc
+tapered and straigfit sections, and in the leading edge of the fin. Two large adjustable outlets arc
+located on each side of the cabin, one forward and one aft of the front seat near the floor.
+There are also adjustable outlets above each seat. In airplanes without air conditioning. an
+optional blower may be added to the overhead vent system to aid in the circulation of cabin air.
+CABIN FEATURES
+For ease of entry and exit and for pilot and passenger comflort. the front seats are
+adjustable fore and aft. All seats recline and have armrests and are available with optional
+headrests. The front seats can be equipped with optional vertical adjustment. The center and
+rear seats are easily removed for additional cargo space. Some rear seat installations incorporate
+lcg retainers with latching mechanisms which must bc released beforc the rear scats can bc
+rentoved. Releasing the retainers is easily accomplished by turning the latching mechunisrrrs 90"
+with a coin or screwdriver. An optionaljump seat can be installed between the two middle seats
+to give the airplane a seven-place capacity.
+SingJe strap shoulder harnesses controlled by inertia reels are standard equipment for thc
+front seats and are offered as optional equipment for the third, fourth, fifth and sixth seats, but
+not for the seventh seat. The shoulder strap is routed over the shoulder adjacent to the windows
+and attached to the lap belt in the general area of the person's inboard hip.
+AIRPLANE AND SYSTEMS
+REVISED: JUNE 20,t974
+ii.riiil iiliilLlillii li lililiil,l2-15
+
+--- Page 28 ---
+CHEROKEE SIX - 3OO
+Pitot-Static System
+NRPI-ANE AND SYSTE}TS'ISSUED: IULY 12,1973V
+5
+F(
+o
+5.9fiH;
+E;Hg.=l-o l
+trla<tl(EEHsTi&FFF((d>EI
+[\
+\.__ 
+\
+
+--- Page 29 ---
+EFUrFtrl >vz
+" lllE3
+r) v,{<sHE
+=
+=
+t(D
+Da.,oe
+BA
+(DIF.
+D
+!'a
+TA
+a
+oB
+s
+{I. FRESH AIR INLET
+2. DRAIN TUBE
+3. OVERHEAD VENT BLOWER
+.. BULKHEADASS€MSLY
+5. OVERHEAO FRESHAIR OUCT
+6. CABIN AIR EXHAUST
+,. FRESHAIROUTLET
+t. OEFROSTER OUTLST
+9. CABIN HEATOUTLET
+IO. OEFROSTER AIR CONTROL
+II. HEATERAIRCONTROLI rnes" r,n
+I oernosren ern
+) xeereo err,,,
+/i
+----\ t / . -\,/ / -/ ,,
+('
+4
+sERIAL Nos. ?64000l AND uP ''', 
+-) ". SEHIAL NOS. 7Ai{XII THROUGH 7EOI88o
+It
+FoxEJrdv,
+X
+I(,
+I
+
+--- Page 30 ---
+CIIEROKEE SIX - 3OO
+The inertia reel should be checked by tugging sharply on the strap. The reel will lock in
+place under this test and prevent the strap from extending. Under normal movement, the strap
+will extend and retract as required.
+BAGGAGE AREA
+The airplane has two separate baggage areas, each with a 100 pound capacity. An 8 cubic
+foot forward luggage compartment, located just aft of the fire wall, is accessible through a l6 x
+22 inch door on the right side of the fuselage. A 22 cubic foot aft compartment is located
+behind the fifth and sixth seats and is conveniently accessible even during flight from inside the
+cabin.
+NOTE
+It is the pilot's responsibility to be sure when the baggage is
+loaded that the airplane's C.G. falls within the allowable C.G.
+range. (See Weight and Balance Section.)
+STALL WARNING
+An approaching stall is indicated by a stall warning indicator which is activated between
+five and ten miles per hour above stall speed. Mild airframe buffeting and gentle pitching may
+also precede the stall. Stall speeds are shown on graphs in the Performance Charts Section. The
+stall warning indicator is a red warning light on the left side of the instrument panel on earlier
+models and a continuous sounding hom located behind the instrument panel on later models.
+The stall warning indicator is activated by a lift detector installed on the leading edge of the lift
+wing. During preflight, the stall warning system should be checked by turning the master switch
+"ON," lifting the detector and checking to deterrnine if the indicator is actuated.
+FINISH
+All exterior surfaces are primed with etching primer and finished with acrylic lacquer
+available in a variety of colors and combinations. To keep the finish attractive looking, economy
+size spray cans of touch-up paint are available from Piper Dealers.
+AIR CONDTTIONING*
+The air conditioning system is a recirculating aii system. The major components include an
+evaporator, a condenser, a compressor, a blower, switches and temperature controls.
+The evaporator is located behind the rear baggage compartment. This cools the air used for
+the air conditioning system.
+The condenser is mounted on a retractable scoop located on the bottom of the fuselage
+and to the rear of the baggage compartment area. The scoop extends when the air conditioner is
+ON and retracts to a flush position when the system is OFF.
+The compressor is mounted on the forward right undenide of the engine. It has an electric
+clutch which automatically engages or disengages the compre$pr to the belt drive system of the
+compressor.
+rOptional equipment
+NRPI.ANE AI\TD SYSTEMS
+REVISED: JANUARY U, 197 52.18
+
+--- Page 31 ---
+CHEROKEE SIX.3OO
+An optioncl electric blower is mounted on the aft side of the rear cabin panel. Air from
+the baggage area is drawn through the evaporator by the blower and distributed through an
+overhead duct to individual outlets located adjacent to each occupant.
+The switches and temperature control are located on the lower right side of the instrument
+panel in the climate control center panel. The temperature control regulates the temperature of
+the cabin. Turning the control clockwise increases cooling;counterclockwise decreases cooling.
+The fan speed switch and the air conditioning ON-OFF switch are inboard of the
+temperature control. The fan can be operated independently of the air conditioning;however,
+the fan must be on for air conditioner operation. Turning either switch off will disengage the
+compresso! clutch and retract the condenser door. Cooling air should be felt within one minute
+after the air conditioner is turned on.
+NOTE
+If the system is not operating in 5 minutes, turn the system OFF
+until the fault is corrected.
+The fan switch alldws operation of the fan with the air conditioner turned OFF to aid in
+cabin air circulation. "LOW," "MED" or "HIGH" can be selected to direct a flow of air through
+the air conditioner outlets in the overhead duct. These outlets can be adiusted or turned off
+individuallly.
+The condenser door light is located to the rieht of the engine instrument cluster in front of
+the pilot. The door light illuminates when the door is open and is off when the door is closed.
+A circuit breaker on the circuit breaker panel protects the air conditioning electrical
+system.
+Whenever the throttle is in the full forward position, it actuates a micro switch which
+disengages the compressor and retracts the scoop. This allows maximum power and maximum
+rate of climb. The fan continues to operate and the air will remain cool for about one minute.
+When the throttle is retarded approximately ll4 inch, the clutch will engage, the scoop will
+extend, and the system will again supply cool, dry air.
+PIPER EXTERNAL POWERI
+An optional starting installation known as Piper External Power (PEP) is accessible through
+a receptacle located on the left side of the nose section aft of the cowling. An external battery
+can be connected to the socket, thus allowing the operator to crank the engine without having
+to gain access to the airplane's battery.
+*Optional equipment
+AIRPLANE AND SYSTEMS
+ISSUED: JULY 12,1973 2-r9
+
+--- Page 32 ---
+F.A.A. APPR(lYEll
+EMERGE}ICY PROCEDURES
+}ItlilE APPLICABLE T(l THIS AIRPLA}IE
+
+--- Page 33 ---
+;ffi fr llliiiiiiiritilrrii ri:AIRPLANE FLIGHT MANUAL
+FOR
+CHEROKEE SIX 3OO
+APPLICABLE TO SERIAL NUMBERS 32-744OOOI THROUGH 32.7640130
+REPORT: VB-562
+MODEL: PA-32-300
+, riiriliiltiilillllllillllllllllllllllllilllil,, r l
+
+--- Page 34 ---
+AIRPLAI{E FTIGHT MA}IUAL
+Log of Revisions
+Limitations
+Procedures
+Performance
+Supplements3-iii
+3-t
+3-7
+3-9
+3-l l
+
+--- Page 35 ---
+CIIEROKEE SX.3OO
+TABLE (lF C(I}ITE]ITS
+Log of Revisions 3-iii
+SECTION I
+Limitations 3-l
+A. Engine:::::.:.::.. 3-l
+B. Fuel 3-1
+C. Propeller 3-l
+D. Power Instruments 3-l
+E. Airspeed Limitations and Airspeed Instnrment Markings
+(Calibrated Airspeed) 3-2
+Maximum Weight 3-2
+C. G. Range 3-2
+Maneuvers 3-z
+Placards 3-3
+Rear Cabin Door or Rear Cabin Door and Cargo Door Removed . 3-5
+Seven-Pasenger Operation 3-5
+Nose Wheel Fairing Removed 3-5
+SECTION II
+Procedures
+SECTION Itr
+Performance
+SECTION IV
+Optional Equipment 3-l I
+A. Electric Pitch Trim Installation 3-13
+B. AutoFlite tI Installation 3-16
+C. Air Conditioner lnstallation . 3-17
+D. Piper AutoControl III and/or AutoControl IIIB lnstallation 3-19
+E. Piper AltiMatic IIIC Installation 3-23F.
+G.
+H.
+I.
+J.
+K.
+L.
+J-l
+3-9
+FAA APPROVED MAY 14, 1973
+REVISED: NOVEMBER 6. 197 4REFORT: vB-562 PAGE 3-i
+IiODEL: PA-32-3m
+
+--- Page 36 ---
+CHEROKEE SD(.300
+A.SECTION I
+LIMITATIONS
+The following Iimitations must be observed in the operation of this airplane:
+ENGINE
+Lycomins IO'540-KIA5 (Serial nos. 7440001 through 7640A65 and 7640067 through
+764007t)
+Lycoming IO'54GKlG5 (Serial nos. 7640066,7640A7 2 and up)
+ENGINE LMITS
+For all operations 2700 RPM,300 HP
+FUEL
+100/130 minimum aviation grade fuel
+PROPELLER
+Hartzell HC{2YK-l 18475D4 or HC{2YK-I( )184754 or HC{2YK-I(
+Low pitch stop 13.5' t .2o , hieh pitch stop 34' I I'
+Maximum diameter 80 inches, minimum diameter 78.5 inches
+OPTIONAL PROPELLER (Ser. nos. 7440001 through 7540188 only)
+Hartzell HC-C2YK-I( )/8475R{ or HC{2YK-1( )F/F8475R-0
+Low pitch stop 12.4' ! .2o , high pitch stop 29' t 1'
+Maximum diameter 84 inches, minimum diameter 82.3 inches
+POWER INSTRT'MENTS
+OIL TEMPERATURE
+Green Arc (Normal Operating Range))F/F847sD4
+75'F to 245" F
+245"FB.
+c.
+D.
+FAA APPROVED MAY 14, 1913
+REVISED: FEBRUARY 2. 197 6Red Line (Maximum)
+OIL PRESSURE
+Green Arc (Normal Operating Range)
+Yellow Arc (Caution Range)
+Red Line (Minimum)
+Red Line (Maximum)
+FUEL PRESSURE
+Green Arc (Normal Operating Range)
+Red Line (Minimum)
+Red Line (Maximum)
+Yellow Arc (Idle Range)
+TACHOMETER
+Green Arc (Normal Operating Range)
+Red Line (Maximum Continuous Power)60 PSI to 90 PSI
+25 PSI to 50 PSI
+25 PSI
+90 PSI
+l8 PSI to 4'0 PSI
+I8 PSI
+4.0 PSI
+l2 PSI to 18 PSI
+500 to 2700 RPM
+27OO RPM
+REFORT: vB-562 PAGE 3-1
+MODEL: PA-32-300
+
+--- Page 37 ---
+CHEROKEE SIX.3OO
+E. AIRSPEED LIMITATIONS AND AIRSPEED INSTRUMENT MARKINGS (Calibrated
+Airspeed)
+F. MAXIMUM WEIGIIT 34OO LBS
+G. C. G. RANGE
+The datum used is 78.4 inches ahead of the wing leadins edge at the intersection of the
+straight and tapered section.NEVER EXCEED
+MAXIMUM STRUCTURAL CRUISE
+MANEUVERTNG
+FLAPS EXTENDED
+MAXIMUM POSITIVE LOAD FACTOR
+MAXIMI.JM NEGATIVE LOAD FACTOR
+AIRSPEED INSTRUMENT MARKINGS
+Red Radial Line (Never-Exceed)
+Yellow Arc (Caution Range)
+(Smooth Air Only)
+Green Arc (Normal Operating Range)
+White Arc (Flap Down)2I2MPH
+I68 MPH
+I49 MPH
+125 MPH
+3.8
+No inverted maneuvers approved
+ZI?MPH (184 KTS)
+168 MPH to 212 MPH
+(146 KTS to 184 KTS)
+7l MPH to 168 MPH
+(62 KTS to 146 KTS)
+63 MPH to 125 MPH
+(55 KTS to 109 KTS)
+Rearward Limit
+(In. Aft of Datum)
+95.5
+96.2
+96.2
+96.2Weight
+(Pounds)
+3400
+3300
+2904
+2400Forward Limit
+(In. Aft of Daturn)
+91.4
+89.0
+80.0
+76.0
+Straight line variation between points given.
+NOTE
+It is the responsibility of the airplane owner
+insure that the airplane is properly loaded.
+Balurce Section for proper loading instructions.
+H. MANEIIVERS
+No acrobatic maneuven including spins approved.
+REPORT: VB-562 PAGE 3-2
+MODEL: PA-32-300and the pilot to
+See Weight and
+FAA APPROVED MAY 14,1973
+
+--- Page 38 ---
+CHEROKEE SIX.3OO
+r. PLACARDS
+In full view of the pilot:
+.THIS AIRPLANE MUST BE OPERATED AS A NORMAL
+CATEGORY AIRPLANE IN COMPLIANCE WITH THE
+OPERATING LIMITATIONS STATED IN THE FORM OF
+PLACARDS, MARKINGS AND MANUALS. NO ACROBATIC
+MANEIIVERS, INCLUDING SPINS, APPROVED.''
+..THIS AIRCRAFT APPROVED FOR NIGHT IFR NON.ICING
+FLrclrT WHEN EQUTPPED IN ACCORDANCE WITH FAR 9l
+oR FAR 135."
+In full view of the pilot, the following takeoff and landing check lists will be installed:
+TAKEOFF CHECK LIST
+Fuel on proper tank Mixture set Flaps l0' ( lst notch)
+Electric fuel pump on Propeller set Trim tab - set
+Engine gauges checked Fasten belts/harness Controls free
+Alternate air closed Doors latched
+Seat backs erect Air Conditioner - Off
+LANDING CHECK LIST
+Seat backs erect Fuel on proper tank Mixhrre rich
+Fasten belts/harness Electric fuel pump on Propeller set
+Air Conditioner - Off Flaps down (125 mph)
+The "AIR CONDITIONER OFF" item in the above takeoff and
+landing check lists is mandatory for air conditioned aircraft only.
+On the instrument panel in full view of the pilot:
+*ROUGH AIR OR MAI{EUVERING SPEED I49 MPH.''
+On the instrument panel in full view of the pilot:
+..DEMONSTRATED CROSSWIND COMPONENT 20 MPH.''
+REPORT: VB-562 PAGE 3-3
+MODEL: PA-32-300FAAAPPRO\TED IT{AY 14, I973
+
+--- Page 39 ---
+CHEROKEE SIX.3OO
+In full view of the pilot: (For operation with the rear door removed)
+..FOR FLIGHT WITH THE DOOR REMOVED, SEE THE
+LIMITATIONS AND PROCEDURES SECTIONS OF THE
+AIRPLANE FLIG}IT MANUAL.'
+On the instrument panel in full view of the pilot when the AutoFlite is installed:
+"FOR HEADING CHANGES: PRESS DISENGAGE SWITCH
+ON CONTROL WHEEL. CHANGE HEADING. RELEASE
+DISENGAGE SW[TCH.''
+On the fuel selector valve cover:
+*ALL WEIGHT IN EXCESS OF 3II2 POUNDS MUST BE
+FUEL WEIGHT ONLY. FILL TIP TANKS FIRST. USE MAIN
+TANKS FIRST.''
+On the instrument panel in full view of the pilot when the AutoFlite II is installed:
+.,TURN AUTOFLITE ON. ADJUST TRIM KNOB FOR
+MINIMUM HEADING CHANGE: FOR HEADING CHANGE,
+PRESS DISENGAGE SWTTCH ON CONTROL WHEEL,
+CHANGE ITEADING, RELEASE SWITCH. ROTATE TURN
+KNOB FOR TURN COMMANDS. PUSH TURN KNOB IN TO
+ENGAGE TRACKER. PUSH TRIM KNOB IN FOR HI
+SENSITTVITY. LIMITATIONS AUTOFLITE OFF FOR
+TAKEOFF AND LANDING."
+On the instrument panel in full view of the pilot when the supplementary white strobe
+lights are installed:
+..WARNING . TURN OFF STROBE LIGTITS WHEN TAXIING
+IN VICINITY OF OTHER AIRCRAFT, OR DURING FLIGHT
+THROUGH CLOUD, FOG OR HAZE."
+In full view of the pilot, in the area of the air conditioner controls when the air conditioner
+is installed:
+..WARNING - AIR CONDITIONER MUST BE OFF TO INSURE
+NORMAL TAKEOFF C LIMB PERFORMAI.ICE. "
+REPTORT: !fi,-562 PAGE 3'4
+MODEL: PA-32-300FAA APPROVED MAY 14, T973
+REVISED: DECEMBER 15, l97t
+
+--- Page 40 ---
+CHEROKEE SD(.300
+J.REAR CABIN DOOR OR REAR CABIN DOOR AND CARCO DOOR REMOVED
+The following limitations must be observed in the operation of this airplane with the rear
+cabin door or rear cabin door and cargo door removed:
+l. The airplane may be flown with the rear cabin door or rear cabin door and cargo
+door removed. Flight with the front door removed is not approved.
+2. Maximum speed - 165 mph.
+3. No smoking.
+4. All loose articles must be tied down and stowed.
+5. Jumper's static lines must be kept free of pilot's controls and control surfaces.
+6. Operation approved VFR flight conditions only.
+LOADING LIMITATIONS
+The following limitations must be observed in the operation of this airplane.
+Fill tip tanks first;use main tanks first.
+This airplane must not be operated at gross weights in excess of 3112 pounds
+unless the weight over 31 l2 pounds is fuel weight only.
+Remove fuel from the main tanks first when required for proper weight and
+balance.
+L, NOSE WHEEL FAIRING REMOVED
+When the nose wheel fairing is removed, two nose wheel centering springs (part number
+67168) must be installed.
+M. NOISE LEVEL (Ser. nos. 7640001 and up)
+No noise reduction procedures are required for this airplane. The noise level achieved
+during type certification was 79.27 d B (A). No determination has been made by the
+Federal Aviation Adminis.tration that the noise levels of this airplane are or should be
+acceptable or unacceptable for operation at, into or out of any airport.K.
+II.
+2.
+3.
+FAA APPROVED MAY I4,I973
+REVISED: DECEMBER 15, 1978REFOIC : VB-562 PAGE 3-5
+MODEL: PA-32-30O
+
+--- Page 41 ---
+CIIEROKEE SD(.300
+SECTION II
+PROCEDURES
+The stall warning system is inoperative with the master switch off.
+Electric fuel pump must be on for both landing and takeoff.
+Except as noted above, all operating procedures for this airplane are normal.
+When operating with the rear cabin door removed, it is recommended that all
+occupants wear parachutes.
+Air conditioned Models only: Warning - the air conditioner must be off to insure
+n ormal takeoff perform an ce.
+Fuel System Preflight Procedure:
+The fuel system should be drained daily prior to first flight and after refueling to
+avoid the accumulation of water or sediment. Each fuel tank is equipped with an
+individual quick drain located at the lower inboard rear corner of the tank. The fuel
+strainer and a system quick drain valve are located in the fuselage at the lowest point
+of the fuel system. It is important that the fuel system be drained in the following
+manner:
+a. Drain each tank through its individual quick drain located at the lower
+inboard rear corner of the tank, making sure that enough fuel has been
+drained to insure that all water and sediment is removed.
+b. Place a container under the fuel sump drain outlet, which is located under
+the fuselage
+c. Drain the fuel strainer by pressing down on the lever located on the right
+hand side of the cabin below the forward edge of the rear seat. The fuel
+selector must be positioned in the following sequence: off position, left tip,
+left main, right main, and right tip while draining the strainer to insure that
+the fuel lines between each tank outlet and fuel strainer are drained as well
+as the strainer. When the fuel tanks are full, it will take approximately l1
+seconds to drain all the fuel in one of the lines between a tip tank and the
+fuel strainer and approximately six seconds to drain all the fuel in one of
+the lines from a main tank to the fuel strainer. When the fuel tanks are less
+than full, it will take a few seconds longer.l.
+2.
+3.
+4.
+5.
+6.
+REFORT: VB-562 PAGE 3-7
+MODEL: PA-32-300FAA APPROVED MAY 14.1973
+
+--- Page 42 ---
+CTTEROKEE SIX.3OO
+d. Exrynine the contents of the container placed under the fuel sump drain
+outlet for water and sediment and dispose of the contents.
+CAUTION
+When draining any amount of fuel, care should be taken to insure
+that no fire hazard exists before starting engine.
+After using the under-seat quick drain, it should be checked from outside to
+make sure it has closed completely and is not leaking.
+REFORT: vB-562 PAGE 3{
+MODEL: PA-32-300FAA APPROVED MAY 14, 1973
+
+--- Page 43 ---
+CREROKEE SIX.3OO
+SECTION Itr
+PERFORMAI{CE
+AII performance is given for a weight of 3400 pounds.
+Loss of altitude during stalls can be as great as 350 feet, depending on configuration and
+power.
+Stalling speed, in mph, (Calibrated Ainpeed):
+Flaps Up - 7l
+Flaps Down - 63
+Flap deflection versus handle position is:
+lst notch - l0 degrees
+2nd notch - 25 degrees
+3rd notch - 40 deerees
+Air Conditioned Models Only:
+When the full throttle position is not used or in the event of a malfunction which
+causes the compressor to operate and the condenser door to remain extended. a decrease in
+rate of climb of as much as 100 fpm can be expected at all altitudes.
+REFORT: VB-562 PAGE 3,9
+MODEL: PA-32-300FAA APPROVED MAY 14. 1973
+
+--- Page 44 ---
+CHEROKEE SD(.300
+SECTION ry
+OPTIONAL EQUIPMENT
+NOTE
+THE INFORMATION CONTAINED IN THIS SECTION
+APPLIES WHEN THE RELATED EQUIPMENT IS INSTALLED
+IN THE AIRCRAFT.
+A. Electric Pitch Trim Installation
+B. AutoFlite II Installation
+C. Air Conditioner Installation
+D. Piper AutoControl III and/or AutoContol IIIB Installation
+E. Piper AltiMatic IIIC Installation
+FAA APPROVED MAY 14,1973
+REWSED: NOVEMBER 6, I 974REFORT: vB-562 PAGE 3-ll
+MODEL: PA-32"-300
+
+--- Page 45 ---
+2.
+3.CIIEROKEE SD(-3OO
+A. ELECTRrc PITCH TRIM INSTALLATION
+The following emergency information applies in case of electric pitch trim
+malfunction.
+l. In case of malfunction, disengage electric pitch trim by operating push button
+trim switch on instrument panel.
+In emergenry, electric pitch trim may be overpowered using manual pitch trim.
+In cruise configuration, malfunction results in 10" pitch change and 50 ft
+altitude variation.
+REPORT: VB-562 PAGE 3-13
+MODEL: PA-32-300FAA APPROVED MAY 14, 1973
+
+--- Page 46 ---
+CHEROKEE SIX.3OO
+D. PIPER AUTOCONTROL Itr AI{D/OR AUTOCONTROL IIIB INSTALLATION
+LIMITATIONS
+a. Autopilot OFF during takeoff and landing.
+b. Autopilot use prohibited above 180 MPH CAS.
+PROCEDURES
+a. PREFLIGHT
+( l) Roll Section
+(a) Place Radio Coupler in "Heading" mode and place A/P
+ON/OFF switch in the "ON" position to engage roll section.
+Rotate roll command knob Left and Right and observe
+conbol wheel describes a corresponding Left and Right
+turn, then center knob.
+(b) Set proper'D.G. Heading on D.G. and tum Heading Indice
+to aircraft heading. Engage "Heading" mode switch and
+rotate Heading Indice right and left. Aircraft control wheel
+should turn same direction as Indice. While D.G. indice is
+set for a left turn, grasp control wheel and override the
+servo to the right. Repeat in opposite direction for right
+turn.
+(c) If VOR signal available check Omni mode on Radio Coupler
+by swinging Omni needle left and rieht slowly. Observe that
+control wheel rotates in direction of needle movefrent.
+(d) Disengage by placing the AIP ON/OFF switch to the "OFF"
+position.
+b. IN-FLIGHT
+( I ) Trim airplane (ball centered).
+(2) Check air pressure or vacuum to ascertain that the Directional Gyro
+and Attitude Gyro are receiving sufficient air.
+(3) Roll section 
+en6age, center Roil command Knob, prace the Alp
+ON/OFF switch to the .'ON" position. To turn rotate roll
+command knob in desired direction. (Maximum angle of
+bank should not exceed 30".)
+(b) For heading mode, set Directional Gyro with Magnetic
+Compass. Push dircctional gyro HDG knob in, rotate to
+aircraft heading. Place the console HDG ON/OFF switch to
+the "ON" position. To select a new aircraft heading, push
+D.G. heading knob IN and rotate, in desired direction of
+turn, to the desired heading.
+NOTE
+In HDG mode the maximum bank angles are limited to
+approximately 2O o and single command, heading changes should
+be limited to 150o. (HDG Indice not more than 150" from
+a ctual aircraft heading.)
+FAA APPROVED JUNE 20,1974
+REVISED: NOVEMBER 6. 197 4REPORT: VB-562 PAGE 3-19
+MODEL: PA-32-300l.
+1
+
+--- Page 47 ---
+CHEROKEE SIX.3OO
+(4) voR
+(a) To Intercept:
+l. Using OMNI Bearing Selector, dial desired course,
+inbound or outbound.
+2. Set identical heading on Course Selector D.G.
+3. After aircraft has stabilized, position coupler mode
+selector knob to OMNI mode. As aircraft nears
+selected radial, interception and crosswind correction
+will be automatically accomplished without further
+switching.
+NOTE
+If aircraft position is less than 45o from selected radial, aircraft
+will intercept before station. If position is more than 45 ",
+interception will occur after station passage. As the aircraft nears
+the OMNI station, (l/2 mile) the zone of confusion will direct an
+"S" turn in alternate directions as the OMNI indicator needle
+swings. This alternate banking limited to the sturdard D.G. bank
+angle, is an indication of station passage.
+(b) To select new course:
+l. To select a new course or radial, rotate the HDG indice
+to the desired HDG (match course).
+2. Rotate OBS to the new course. Aircraft will
+automatically turn to the intercept heading for the
+new course,
+(c) To change stations:
+I. If same course is desired, merely tune receiver to new
+station frequency.
+2. If different course is desired, position coupler mode
+selector to HDG mode. Dial course selector D.G. to
+new course. Dial OBS to new course and , position
+coupler mode selector to OMNI mode.
+(5) VOR Approach
+Track inbound to station as described in VOR navigation section.
+After station passage:
+(a) Dial outbound course on Course Selector D.G., then dial
+same course on OBS.
+(b) After established on outbound radial, position coupler
+mode selector to HDG mode and select outbound procedure
+turn heading. After 40 seconds to I minute select a turn in
+the desired direction with the Course Selector D.G. to the
+(c) 3t:"d;$ iiT;1if.':nl::o-'
+(d) When aircraft heading is 45 o to the inbound course, dial
+:"'J;n,iitii'31"3;?;.'3-,t? HlS". course and po si tion
+REPORT: VB-562 PAGE 3-20
+MODEL: PA-32-300FAA APPROVED JUNE 20,1974
+
+--- Page 48 ---
+CHEROKEE SIX. 3OO
+NOTE
+For precise tracking over OMNI station, without "S" tum,
+position coupler mode selector to HDG mode just prior to
+station passage. If holding pattern is desired, position coupler
+mode selector to HDG mode at station passage inbound and
+select outbound heading in direction of turn. After elapsed time,
+dial inbound course on Course Selector D.G. When aircraft
+heading is 45o to radial, position coupler mode selector to OMNI
+mode.
+(6) LOC Approach Only
+(a) To intercept dial ILS outbound course on Course Selector
+D.G. When stabilized, position coupler mode selector to
+LOC REV mode.
+(b) After interception and when beyond outer marker, position
+coupler mode selector to HDG mode and dial outbound
+procedure turn heading. After one minute, dial inbound
+procedure turn heading in direction of turn.
+(c) When aircraft heading is 45 o to ILS inbound course dial
+inbound course on Course Selector D.G. and position
+coupler mode selector to LOC NORM mode.
+(d) At the missed approach point (M.A.P.), or when missed
+approach is elected, position coupler mode selector to HDG
+mode and execute missed approaeh procedure.
+(7) LOC Approach - Back Course (Reverse)(a)l:"Ii"ff i.:,:'lJ:d',ff 5"'iliii,itl'?:1fl ,ff ':'lf,[x
+mode selector to LOC NORM mode.
+(b) After interception and when beyond fix, position coupler
+mode selector to HDG and dial outbound procedure turn
+ffl$iff t'ililff #trf, diar inbound procedure turn
+(c)HA*::'1",i,ifi ;:#:::11,::,:T?.1,'$#3:::'..TH:;
+to LOC REV mode.
+(d) Approximately l/2 mile from runway, position coupler
+mode selector to HDG mode to prevent "S" turn ovel ILS
+station near runway threshold
+(e) Missed approach - same as Front Course. (See (6) d)
+FAA APPRO\{ED JUNE 2A. 
+'974REPORT: YF562 PAGE $2t
+MODEL: PA-3?-300
+irliiiiiiiiiiliiiililiLiiLLiiiiliiiiii rr
+
+--- Page 49 ---
+CIIEROKEE SIX.3OO
+C. EMERGENCY OPERATION
+( I ) In an emergency the AutoControl can be disconnected by placing the
+A/P ON/OFF switch to the "OFF" position.
+(2) The AutoControl can be overpowered at either control wheel.
+(3) An Autopilot runaway, with a 3 second delay in the initiation of
+recovery, wfule operating in a climb, cruise or descending flight could
+result in a 38" bank and 40 foot altitude loss.
+(4) An Autopilot runaway, with a I second delay in the initiation of
+recovery, during an approach operation, coupled or uncoupled, could
+result in an 8o bank and l0 foot altitude lois.
+PERFORMANCE
+No change.
+REFTORT: V8-562 P AGE 3-ZZ
+MODEL: PA-32-3003.
+FAA APPROVED 
+'IJIYE 20.1974
+. RIVISED: NOVEMBER 6, 1974
+
+--- Page 50 ---
+EtrlERGEllCY PR0CEIIURES
+Introduction
+Engine Power Loss During Takeoff
+Engine Power Loss In Flight
+Power Off Landing . . .
+Propeller Overspeed
+Spins .
+Open Door
+Fire
+Loss of Oil Pressure
+Loss of Fuel Pressure
+High Oil Temperature
+Alternate Failure
+Engine Roughness4-l
+4-l
++2
++3
+4-3
+4-4
++4
++5
+4-6
++6
++6
++7
++7
+
+--- Page 51 ---
+CAEROKEE SD(.300
+EMER,GENCY PROCEDURES
+INTRODUCTION
+This section contains procedures that are recomrnended if an emergency condition should
+occur during ground operation, takeoff, or in flight. These procedures are zuggested as the best
+course of action for coping with the particular condition described, but are not a substitute for
+sound judgment and common sense. Since emergencies rarely happen in modern aircraft, their
+occuren@ is usually unexpected, and the best corrective action may not'always be obvious.
+Pilots should familiarize themselves with the procedures given in this section and be prepared to
+take appropriate action should an emergency arise.
+Most basic emergency procedures, such as power off landings, are a normal part of piiot
+training. Althoueh these emergencies are discussed here, this information is not intended to
+replace such training, but only to provide a source of reference and review, and to provide
+information on procedures which are not the same for all aircraft. It is suggested that the pilot
+review standard emergency procedures periodically to remain proficient in them.
+ENGINE POWER LOSS DI]RING TAKEOFF
+The proper action to be taken if loss of power occun during takeoff will depend on
+circumstances.
+t. If sufficient runway remains for a normal landing, land straight ahead.
+2. If insufficient runway remains, maintain a safe airspeed and make only a shallow turn
+if necessary to avoid obstructions. Use of flaps depends on circumstances. Normally,
+flaps should be fully extended for touchdown.
+3. If you have gained sufficient altitude to attempt a restart, proceed as follows:
+a. MAINTAIN SAFE AIRSPEED
+b. FUEL SELECTOR . SWITCH TO ANOTI{ER TANK CONTAINING FUEL
+c. ELECTRIC FIJEL PIrMP - CHECK ON
+d. MIXTURE . CHECK RICH
+e. ALTERNATE AIR - ON
+NOTE
+If engine failure was caused by fuel exhaustion, power will not be' regained after tanks are switched until empty fuel lines are filled,
+which may require up to ten seconds.
+If power is not regained, proceed with the POWER OFF LANDING procedure.
+EMERGENCY PROCEDURES
+ISSLJED: JULY 12,1973 +l
+
+--- Page 52 ---
+CHEROKEE SIX . 3OO
+ENGINE POWER I,oSS IN FIIGHT
+Complete engine power los is usually caused by fuel flow intemrption, and power will be
+restored shortly after fuel flow is restored. If power loss occurs at low altitude, the first step is
+to prepare for an emergency landing (See POWER OFF LANDING). Maintain an airspeed of at
+least 100 MPH IAS, and if altitude permits, proceed as follows:
+l. Fuel Selector - Switch to another tank containing fuel.
+2. Electric Fuel hrmp - On
+3. Mixture - Rich
+4. Alternate Air - On
+5. Engine Gauges - Check for an indication of the cause of power loss.
+6. If no fuel pressure is indicated, check tank selector position to be sure it is on a tank
+containing fuel.
+When power is restored:
+8. Altemate Air - Off
+9. Electric Fuel hrmp - Off
+If the above steps do not restore power, prepare for an emergency landing.
+If time permits:
+l. Ignition Switch - "L" then "R" then back to "BOTH."
+2. Throttle and Mixture - Different settings. (This may restore power if the problem is
+too rich or too lean a mixture, or if there is partial fuel rystem restriction.)
+3. Try other fuel tanks. (Water in the fuel could take some time to be used up, and
+allowing the engine to windmill may restore power. If power loss is due to water, fuel
+pressure indications will be normal.)
+NO13
+If engine failure was caused by fuel exhaustion, power will not be
+regained after tanks are switched until empty fuel lines are filled,
+which may require up to ten seconds.
+If power is not restored, proceed with POWER OFF LANDING procedure.
+EMERGENCY PROCEDURES
+ISSUED: JULY 12,1973 +2
+
+--- Page 53 ---
+CHEROKEE SIX - 3OO
+POWER OFF LANDING
+If loss of power occurs at altitude, trim the aircraft for best gliding angle (100 MPH IAS,
+Air Cond. - OFF), and look for a suitable field. If measures taken to restore power are not
+effective, and if time permits, check your charts for airports in the immediate vicinity;it may be
+possible to land at one if you have sufficient altitude. At best gliding angle, with the engine
+windmilling and the propeller control in full "DECREASE RPM," the airplane will travel
+approximately one and one half miles for each one thousand feet of altitude. If possible, notify
+the FAA by radio of your difficulty and intentions. If another pilot or passenger is aboard, let
+them help.
+When you have located a suitable field, establish a spiral pattern around this field. Try to
+be at 1000 feet above the field at the downwind position to make a normal approach. When the
+field can easily be reached, slow up to 90 MPH IAS for the shortest landing. Excess altitude may
+be lost by widening your pattern, using flaps or slipping, or a combination of these.
+Touchdown should normally be made at the lowest
+When committed to landing:
+l. Ignition - Off
+2. Master Switch - Off
+3. Fuel Selector - Off
+4. Mixture - Idle Cut0ff
+5. Seat Belt (and harness if available) - Tightpossible airspeed, with full flaps.
+PROPELLER O\IERSPEED
+Propeller overspeed is caused by a malfunction in the propeller governor, or low oil
+pressure, which allows the propeller blades to rotate to full low pitch. If this should occur,
+proceed as follows:
+I. THROTTLE-RETARD
+2. OIL PRESSURE. CHECK
+3. PROPELLER CONTROL - FULL DECREASE RPM. THEN SET IF A}.IY CONTROL
+IS AVAILABLE.
+4. REDUCE AIRSPEED
+s. THROTTLE - AS REQUIRED TO REMAIN BELOW 2700 RpM.
+EMERGECf.IY PROCEDURES
+ISSUED: JULY 12,1973
+
+--- Page 54 ---
+CHEROKEE SIX.3OO
+SPINS
+Intentional spins are prohibited in this aircraft. If a spin is inadvertently entered,
+immediately use the following recovery procedures:
+I. THROTTLE . IDLE
+2. RUDDER . FULL OPPOSITE TO DIRECTION OF ROTATION
+3. CONTROL WHEEL. FULL FORWARD
+4. RUDDER. NEUTRAL (WHEN ROTATION STOPS)
+5. CONTROL WHEEL - AS REQUTRED TO SMOOTHLY REGATN LEVEL FLrcH'r
+ATTITUDE
+OPEN DOOR
+The cabin door on the Cherokee is double latched, so the chances of its springing open in
+flight at both the top and bottom are remote. However, should you forget the upper latch, or
+not fully engage the lower latch, the door may spring partially open. This will usually happen at
+takeoff or soon afterward. A partially open door will not affect normal flight characteristics,
+and a normal landing can be made with the door open.
+'i If both upper and lower latches are open, the dooi will trail slightly open, and airspeed will
+be reduced slightly.
+:; To close the door in flight, proceed as follows:
+l. Slow airqaft to 100 MPH lAS.
+2. Cabin Vents - Close
+3. Storrn Window - Open
+4. If upper latch is open - latch. If lower latch is open - open top latch, push door
+further open, and then close rapidly. Latch top latch.
+A slip in the direction of the open.door will assist in latching procedure.
+EMERGENCY PROCEDURES
+ISSUED: JULY 12,1973 H
+
+--- Page 55 ---
+CHEROKEE SIX.3OO
+FIRE
+The presence of fire is noted through smoke, smell, and heat in the cabin. It is essential
+that the source of the fire be promptly identified through instrument readings, character of the
+smoke, or other indications, since the action to be taken differs somewhat in each case.
+SOURCE OF FIRE . CHECK
+t.Electrical Fire (Smoke in Cabin):
+a. Master Switch - Off
+b. Vents - Open
+c. Cabin Heat - Off
+d. Land as soon as possible.
+Engine Fhe (In Flight):
+a. Fuel Selector - Off
+b. Throttle - Closed
+c. Mixture - Idle Cut0ff
+d. Heater - Off (In all cases of fire)
+e. Defroster - Off (In all cases of fire)
+f. If terrain permits, land immediat6ly.
+NOTE
+The possibility of an engine fue in fli&t is extremely remote.
+The procedure given above is general and pilot judgment should
+be the deciding factor for action in such an emergency.
+Engine Fire (During Start):
+Engine fres during start are usually the result of overpriming. The following
+procedure is designed to draw the excess fuel back into the induction system.
+a. If engine has not started:
+(l) Mixture -Idle CutOff
+(2) Throtfle - Open
+(3) Turn engine with starter (This is an attempt to pull the fre into the
+engine.)
+b. If engine has already started and is running, continue operating to try pulling the
+fire into the engine.
+c. In either case stated in (a) and (b), if the fire continues longer than a few
+seconds, the fire should be extinguished by the best available external means.
+d. If external fire extinguishing is to be applied:
+( I ) Fuel Selector Valves - Off
+(2) Mixture - Idle CutOff
+EMERGENgY PROCEDURES
+ISSLJED: JULY 12,1973)
+3.
+4-5
+
+--- Page 56 ---
+CHEROKEE SIX - 3OO
+LOSS OF OIL PRESSURE
+Loss of oil pressure may be either partial or complete. A partial loss of oil pressure usually
+indicates a malfunction in the oil pressure regulating system, and a landing should be made as
+soon as possible to investigate the cause and prevent engine damage.
+A complete loss of oil pressure indication may signify oil exhaustion or may be the result
+of a faulty gauge. In either case, proceed toward the nearest airport, and be prepared for a
+forced landing. If the problem is not a pressure gauge malfunction, the engine may stop
+zuddenly. Maintain altitude until zuch time as a dead stick landing can be accomplished. Don't
+change power settings unnecessarily, as this may hasten complete power loss.
+Depending on the circumstances, it may be advisable to make an off airport landing while
+power is still available, particularly if other indications of actual oil pressure loss, such as sudden
+increases in temperatures, or oil smoke, are apparent, and an airport is not close.
+If engine stoppage occurs, proceed to POWER OFF LANDING.
+LOSS OF FUEL PRESSURE
+i. l. Electric Boost Pump - On
+,; 2. Fuel Selector - Check on full tank
+If problem is not an empty fuel tank, land as soon as practical and have engine-driven fuel
+pump checked.
+HIGH OIL TEMPERATURE
+An abnormaly high oil temperature indication may be caused by a low oil level, an
+obstruction in the oil cooler, damaged or improper baffle seals, a defective gauge, or other
+causes. Land as soon as practical at an appropriate airport and have the cause investigated
+A steady, rapid rise in oil temperature is a sign of trouble. Land at the nearest airport and
+let a mechanic investigate the problem. Watch the oil pressure gauge for an accompanying loss
+of preszure.
+EMERGENCY PROCEDURES
+ISSUED: ruLY 12,1973 6
+
+--- Page 57 ---
+CHEROKEE SIX - 3OO
+ALTERNATOR FAILURE
+Loss of alternator output is detected through zero reading on the ammeter. Before
+executing the fotlowing procedure, insure that the reading is zero and not merely low by
+actuating an electrically powered device, such as the landing light. If no increase in the ammeter
+reading is noted, alternator failure can be assumed.
+,, l. Reduce Electrical Load.
+2. Alternator Circuit Breakers - Check
+3. "Alt" Switch - Off (for I second), then On
+If the ammeter continues to indicate no output, or alternator will not stay reset, turn off
+"Alt" switch, maintain minimum electrical load and land as soon as practical. All electrical load
+is being supplied by the battery'
+ENGINE ROUGHNESS
+Engine roughness may be caused by dirt in the injector nozzles, induction system icing, or
+ignition problems. To eliminate roughness, proceed as follows:
+l. Mixture - Adjust for maximum smoothness. Engine will run rough if too rich or too
+Iean.
+2. Alternate Air - On
+3. Electric Fuel Pump - On
+4. Fuel Selector - Change tanks to see if fuel contamination is the problem.
+5. Engine Gauges - Check for abnormal readings. If any gauge readings are abnormal,
+proceed accordingly.
+6, Magneto Switch - "L" then "R," then back to "BOTH." If opcration is satisfactory
+on either magneto, proceed on that magneto at reduced power, with mixture full rich,
+to a lauding at the frst available airport-
+If roughness persists, prepare for a precautionary landing at pilot's discretion.
+EMERGENCY PROCEDURES
+REVISED: JANUARY ll, 197 4 4-7
+
+--- Page 58 ---
+WEIGHT AND
+FOR
+CHEROKEEBALANCE
+stx 300
+APPLICABLE TO SERIAL NUMBERS 32-744OOOI THROUGH 32-7640130
+ISSUED: MAY 14, 1973
+REYISED:' MARCH 23. 1979REPORT: VB-551
+MODEL: PA-32-300
+
+--- Page 59 ---
+WEIGHT AIID BAIA}ICE
+Log of Revisions 5-iii
+Weight and Balance 5-l
+Weight and Balance Data - Weighing Procedure 5-3
+Weight and Balance Data 5-7
+C. G. Range and Weight Instructions 5-8
+
+--- Page 60 ---
+CHEROKEE SIX.3OO
+WEIGHT AND BALANCE
+In order to achieve the performance, safety and good flying characteristics which are
+designed into the airplane, it must be flown with the weiglrt and center of gravity (C.G.)
+position wthin the approved envelope. The aircraft offers a tremendous flexibility of loading.
+However, you cannot fill the airplane, with the maximum number of adult passengers, full fuel
+tanks and maximum baggage. With the flexibility comes responsibility. The pilot must ensure
+that the airplane is loaded within the loading envelope before he makes a takeoff.
+Misloading carries consequences for any aircraft. An overloaded airplane will not take off,
+climb or cruise as well as a properly loaded one. The heavier the airplane is loaded, the less
+climb perfornance it will have.
+Center of gravity is a determining factor in flight characteristics. If the C.G. is too far
+forward in any airplane, it may be difficult to rotate for takeoff or landing. If the C.G. is too far
+aft, the airplane may rotate prematurely on takeoff or try to pitch up during climb.
+Longitudinal stability will be reduced. This can lead to inadvertent stalls and even spins; and
+spin recovery becomes more difficult as the center of gravity moves aft of the approved limit.
+' A properly loaded aircraft, however, will perform as intended. This airplane is designed to
+provide excellent performance and safety within the flight envelope. Before the airplane is
+delivered, it is weighed, and a basic weight and C.G. location is computed. (Basic weight consists
+of the empty weight of the aircraft plus the unusable fuel and full oil capacity.) Using the basic
+weight and C.G. location, the pilot can easily determine the weight and C.G. position for the
+loaded airplane by computing the total weight and moment and then determining whether they
+are within the approved envelope.
+The basic weight and C.G. location for a phrticular airplane are recorded in the aircraft log
+book or in the weight and balance section of the Airplane Flight Manual. The current values
+should always be used. Whenever new equipment is added or any modification work is done, the
+mechanic responsible for the work is required to compute a new basic weight and basic C.G.
+position and to write these in the aircraft log book. The owner should make sure that it is done.
+A weight and balance calculation can be helpful in determining how much fuel or baggage
+can be boarded so as to keep the C.G. within allowable limits. If it is necessary to remove some
+of the fuel to stay within maximum allowable gross weight, the pilot should not hesitate to do
+so.
+The following pages are forms used in weighing an airplane in production and in computing
+basic weight, basic C.G. position, and useful load. Note that the useful load includes fuel, oil,
+baggage, cargo and passengers. Following this is the method for computing takeoff weight and
+c.G.
+REPTORT: VB-551 PAGE 5-l
+MODEL: PA-32-300ISSUED: MAY 14,1973
+
+--- Page 61 ---
+CHEROKEE SIX.3OO
+WEIGIIT AND BALANCE DATA
+WEIGIIING PROCEDURE
+At the time of delivery, Piper Aircraft Corporation provides each airplane with the licensed
+empty weight and center of gravity location. This data is on Page 5-7.
+The removal or addition of an excessive amount of equipment or excessive airplane
+modifications can affect the licensed empty weight and empty weight center of gravity. The
+following is a weighing procedurc to determine this licensed empty weight and center of gravity
+location:
+I. PREPARATION
+Be certain that all items checked in the airplane equipment list are installed
+in the proper location in the airplane.
+Remove excessive dirt, grease, moisture, foreign items such as rags and tools
+from the airplane before weighing.
+Defuel airplane. Then open all fuel drains until all remaining fuel is drained.
+Operate engine on each tank until all undrainable fuel is used and engine
+stops.
+Drain all oil from the engine, by means of the oil drain, with the airplane in
+ground attitude. This will leave the undrainable oil still in the system.
+Engine oil temperature should be in the normal operating range before
+draining.
+Place pilot and copilot seats in fourth (4th) notch, aft of forward position.
+Put flaps in the fully retracted position and all control surfaces in the
+neutral position. Tow bar strould be in the proper location and all entrance
+and baggage doors closed.
+f. Weieh the airplane inside a closed building to prevent errors in scale
+readings due to wind.
+2.LEVELING
+With airplane on scales, block main gear oleo pistons in the fully extended
+position.
+Level airplane (see diagram) deflating nose wheel tire, to center bubble on
+level.
+REPTORT: VB-551 PAGE 5-3
+MODEL: PA-32.30Oa.
+b.
+d.
+e,
+a.
+b.
+ISSLJED: MAY 14,1973
+
+--- Page 62 ---
+iI
+I
+t,
+A-
+S=CHEROKEE SD(.300
+3. WEIGHING. AIRPLANE EMPry WETGHT
+a' lVith the ailplane level and brakes released, record the weight shown on
+each scale. Deduct the tare, if any, from each reading.
+4. EMPTY WEIGHT CENTER OF GRAVITY
+a. The following geometry applies to the PA-32-300 airplane when airplane is
+level (See Item 2).
+24il
+i illl
+{t
+#'
+-,-q6r.Level Points
+(Fuselage Left Side)
+Wing Leading Edge
+R+L
+The datum is 78.4 inches ahead
+of the wing leading edge at the
+intersection of the straight and
+tapered section.
+REFORT: VB-551 PAGE 5,f
+MODEL: PA-32-3O0Scale Position and Symbol
+Nose \Yheel (N)
+Right'Main.Wheel (R)"
+Left Main Wheel (L)
+Airplane Empty Weight, as Weighed (T)
+ISSUED: II{AY 14, 1973
+
+--- Page 63 ---
+CHEROKEE SD(.300
+Obtain measurement "A" by measuring from a plumb bob dropped from
+the wing leading edge, at the intersection of the straieht and tapered
+section, horizontally and parallel to the airplane centerline, to the main
+wheel centerline.
+Obtain measurement 'oB" by measuring the distance from the main wheel
+centerline, horizontally and parallel to the airplane centerline, to each side
+of the nose wheel axle. Then average the measurements.
+d. The empty weight center of gravity (as weighed including optional
+equipment and undrainable oil) can be determined by the following
+formula:
+c.G.Arm = 78.4 +A-B(N)
+T
+C. G. Arm = 78.4 + ()-( inches
+5.LICENSED EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITYb.
+:iri;i
+fti;1
+ISSLJED: MAY 14,1973
+REVISED: NOVEMBER 6. 1974REPTORT: VB-551 PAGE 5-5
+MODEL: PA-32.30OWeight Arm Moment
+Empty Weight (as weighed)
+Unusable Fuel (.4 gallon) +2.3 103.0 +237
+Licensed Empty Weight
+
+--- Page 64 ---
+CHEROKEE SIX.3OO
+WEIGIIT AND BALANCE DATA
+MODEL PA-32.300 CHEROKEE
+Airplane Serial Number
+Registration Number
+Date
+AIRPLANE BASTC WEIGHT
+*Empty weight is defined as dry empty weight (including paint and hydraulic fluid) plus
+2.4lbs undrainable engine oil.
+AIRPLANE USEFUL LOAD - NORMAL CATEGORY OPERATION
+(Gross Weight) - (Licensed Empty Weieht) = Useful Load
+(3400lbs) ( lbs) = lbs.
+THIS LICENSED EMPfY WEIGHT, C. G. AND USEFUL LOAD ARE FOR THE
+AIRPLANE AS DELIVERED FROM THE FACTORY. REFER TO APPROPRI"ATE
+AIRCRAFT RECORD WHEN ALTERATIONS HAVE BEEN MADE.
+ISSUED: MAY 14, 1973
+REVISED: JAIYUARY I l. 197 4REPORT: VB-551 PAGE 5-7
+MODEL: PA-32-3OOWeight
+(Lbs)XC. G. Arm
+(Inches Aft
+of Datum)Moment
+(In-Lbs) Item
+Actual
+*Empty Weight Computed
+Unusable Fuel (3.2 pints) 2.3 103.0 237
+Standard Empty Weight
+Optional Equipment
+Licensed Empty Weight
+Oil ( 12 quarts) 22.5 r6.6 374
+Basic Weight
+
+--- Page 65 ---
+CHEROKEE SIX.3OO
+C. G. RANGE AND WEIGHT INSTRUCTIONS
+l. Add the weight of all items to be loaded to the basic weight.
+2. Use the loading graph to determine the moment of all items to be carried in the airplane.
+3. Add the moment of all items to be loaded to the basic weight moment.
+4. Divide the total moment.by the total weight to determine the C.G,-location-;
+5. By using the figures of ltem I and Item 4, locate a point on the C.G. range and weight
+graph. tf the point falls within the C.G. envelope, the loading meets the weight and balance
+requirements.
+SAMPLE LOADING PROBLEM (Normal Category)
+The center of gravity (C.G.) of this sample loading problem is at inches aft of the
+datum line. Locate this point () on the C.G. range and weight graph. Since this point
+falls within the weiglrt - C.G. envelope, this loading meets the weight and balance requirements.
+IT IS THE RESPONSIBILITY OF THE PILOT AND AIRCRAFT OWNER TO INSURE
+THAT THE AIRPLANE IS LOADED PROPERLY.
+*Optional Equipment.
+fllqREPORT: vB-ssl PAGE s€
+MODEL: PA-32-300ISSLJED: MAY 14. 1973
+REVISED: JAhIUARY ll, 1974Weight
+(Lbs)Arm Aft
+Datum
+(Inches)Moment
+(In-Lbs)
+ii Basic Weight
+Pilot and Front Passenger 340.0 8 5.5 29074
+Passengers (Center Seats) 340.0 I l8.l 40t54
+Passensers (Rear Seats) 340.0 155.7 52938
+Passenger (Jump Seat)+ I18.1
+Fuel (84-Gallon Maximum) 95.0
+Baggage (Forward) 42.0
+Baggage (Aft) 178.7
+Total Loaded Airplane
+
+--- Page 66 ---
+EHEROKEE SD(.300
+u,oz
+f.:O:.o-
+F,j
+-'(9
+ul3
+o
+o450
+4m
+350
+300
+60
+mo
+150
+100
+50
+0LOADING GRAPH
+m?F,Cr35tto
+MOMENT/I MO (POUNDS.INCHES}50
+REFOR.T: VB-551 PAGE 5-9
+IiODEL: PA-32-30o..c\)
+."lD(-19\\e,2
+o+tf)
+ad ,.4i
+-t^1Q<i.)
+/
+/
+/
+s /,/
+d /
+'s'-/
+Iscefqu-{{o
+,/,/Fl
+/7,,t.1'/
+I44
+v
+ISSIJED: [tAY 14,1973
+
+--- Page 67 ---
+CHEROIGE SIX.3OO
+C. G. RANGE AND WEIGHT
+::.
+8'u'2ffi
+Zrl
+I :':
+oic
+=
+F
+T(9
+E zzoo=3400
+3(x)0
+REFORT: VB-551 PAGE 5-10
+MODEL: PA-32-30O828/.868890
+INCHES AFT OF DATUM1800
+1400
+96r80\
+/
+/
+/
+ISSI,IED: MAY 14, 1973
+
+--- Page 68 ---
+(lPE RATI}IG I}ISTRU CTI(I}I S
+Preflight 7-l
+Starting Engine 7-2
+Starting Engine When Cold 7'2
+Starting Engine When Hot . 'l'3
+Starting Engine When Flooded 7-3
+Starting With Extemal Power Source 7'3
+Warm-Up
+Ground Check
+Takeoff
+Climb
+Stalls .
+Cruising
+Turbulent Air Operation
+Maneuvers
+Approach and Landing . .
+Stopping Engine 7-9
+AirspeedData. 7-9
+Mooring 7'9
+Weight and Balance 7-9
+Air Conditioning 7-10
+Air Conditioner Operational Check Procedure 7-10
+Air Conditioner Effects on Airplane Performance 7-l I
+Emergency Locator Transmitter 7-ll/-f
+7-6
+7-6
+7-6
+7-8
+7-8
+7-8
+l-l
+
+--- Page 69 ---
+CHEROKEE SIX - 3OO
+OPERATING IN STRU CTION S
+PREFLIGHT
+The airplane should be given a thorough preflight and walk-around inspection. The
+preflight should include a check of the airplane's operational status, computation of weight and
+C.G. limits, takeoff distance, and in flight performance. A weather briefing should be obtained
+for the intended fliglrt path, and any other factors relating to a safe flight should be checked
+before takeoff.
+Walk-Around Inspection
+I. a. Release seat belts securing the control wheel.
+b. Master switch ON.
+c. Check fuel quantity gauges (four tanks).
+d. Master switch and ignition OFF.
+2. a. Check for external damage and operational interference of control surfaces or
+hinges.
+b. Insure that wings and control surfaces are free of snow, ice or frost.
+3. a. Visually check wing tip tank fuel supply; secure caps.
+b. Drain wing tip tank sumps (See Description - Airplane and Systems Section for
+procedure).
+OPERATING IN STRUCTION S
+ISSUED: JULY 12,19737-l
+
+--- Page 70 ---
+CHEROKEE SIX - 3OO
+c. Check navigation lights.
+4. a. Visually check main fuel tank fuel supply; secure caps.
+"b. Drain main fuel tank sumps (See Description - Airplane and Systems Section for
+procedure).
+c. Check that fuel system vents are open.
+d. Check main gear shock struts for proper inflation (4-l12 inches).
+e. Check tires for cuts, wear, and proper inflation.
+f. Check brake blocks for wear and damage.
+g. On left wing check pitot head: Remove cover if used; check that holes are clear.
+a. Check windshield for cleanliness.
+b. Check the propeller and spinner for defects or nicks.
+c. Check for obvious fuel or oil leaks.
+d. Check oil level. (Insure dipstick is properly seated.)
+e. Check cowling and inspection covers for security.
+f. Check nose wheel tire for inflation, wear.
+g. Check nose wheel shock strut for proper inflation (3-ll4 inches),
+h. Check air inlets for foreign matter.
+i. Check alternator belt tension.
+a. Stow tow bar and control locks if used.
+b. Check baggage for proper storage and security.
+c. Close and secure
+d. Drain fuel strainer sump (See Description - Airplane and Systems Section for
+procedure).
+a. Upon entering the aircraft, ascertain that all primary flight controls operate
+properly.
+b. Close and secure the fore and aft cabin doors.
+c. Check that required papers are in order and in the airplane.
+d. Fasten seat belts and shoulder harness. Check function of inertia reel.
+STARTING ENGINE
+After completing the preflight hspection:
+1. Set brakes ON.
+2. Set the propeller in fuII INCREASE RPM.
+3. Select the desired tank with the fuel selector.
+STARTING ENGINE WHEN COLD
+l. Open the throttle approximately ll2 inch.
+2. Turn the master switch ON.
+3. Turn the auxiliary electric fuel pump ON.
+4. Move the mixture control to FULL RICH until an indication is noted on the fuel
+flow meter. (Engine is primed.)
+5. Move the mixture control to IDLE CUT-OFF.
+6. Engage the starter by rotating the magneto switch clockwise and pressing in.
+7. When the engine fires, release the magneto switch; advance the mixture control
+to FULL RICH; move the throttle to the desired setting.
+8. If the engine does not fire within five to ten seconds; disengage the starter and
+reprime.
+OPERATING INSTRUCTIONS
+ISSUED: JULY 12.19735.
+6.
+7.
+7-2
+
+--- Page 71 ---
+CHEROKEE SIX - 3OO
+STARTING ENGINE WHEN HOT
+l. Open the throttle approximately l/2 inch.
+2. Turn the master switch ON.
+3. Turn the auxiliary electric fuel pump ON.
+4. Mixture control in IDLE CUTOFF.
+5. Engage the starter by rotating the magneto
+When the engine fires, release the magneto
+the throttle to the desired setting.
+STARTING ENGINE WHEN FLOODEDclockwise and pressing in.
+advance the mixture: move
+I. Open the throttle full.
+2. Turn the master switch ON.
+3. Turn the auxiliary electric fuel pump OFF.
+4. Mixture control in IDLE CUT{FF.
+5. Engage the starter by rotating the magneto switch clockwise and pressing in.
+When the engine fires, release the magneto switch; advance the mixture; retard
+the throttle.
+When the engine is firing evenly, advance the throttle to 800 RPM. If oil pressure is not
+indicated within thirty seconds, stop the engine and determine the trouble. In cold .weather it
+will take a few seconds longer to get an oil pressure indication. If the engine has failed to start,
+refer to the Lycoming Operating Handbook, Engine Troubles and Their Remedies.
+Starter manufacturers recommend that cranking periods be limited to thirty seconds with a
+two minute rest between cranking periods. Longer cranking periods will shorten the life of the
+starter.
+STARTING WITH EXTERNAL POWER SOURCE+
+An optional feature called Piper External Power (PEP) allows the operator to use an
+external battery to crank the engine without having to gain access to the airplane's battery.
+The procedure is as follows:
+L Turn the airplane master switctr to OFF.
+2. Connect the RED lead of the PEP kit jumper cable to the POSITIVE (+)
+terminal of an external l2-volt battery and the BLACK lead to the NEGATIVE
+(-) terminal
+3. Insert the plug of the jumper cable to the socket located on the fuselage.
+4. Turn the airplane master switch ON and proceed with the normal engine starting
+technique.
+5. After the engine has starter, turn the master switch OFF and disconnect thejumper cable from the airplane.
+6- Turn the master switch ON and check the alternator ammeter for indication of. Output. DO NOT ATTEMPT FLIGHT IF THERE IS NO INDICATION OF
+ALTERNATOR O{.]'IPUT.
+tOptional equipment
+OPERATING INSTRUCTIONS
+ISSLJED: JULY 12,1973switch
+switch;
+7-3
+
+--- Page 72 ---
+CHEROKEE SD(.300
+WARM-UP
+Warm-up the engine at 1000 to 1200 RPM. Avoid prolonged idling at low RPM, as thispractice may result in fouled spark plugs.
+Takeoff may be made as soon as the ground check is completed, provided that the throttle
+may be opened fully without backfiring or skipping, and without a reduction in engine oil
+pressure.
+Do not operate the engine at high RPM when running up or taxiing over ground containing
+loose stones, gravel or any loose material that may cause damage to the propeller blades.
+GROUND CHECK
+The magnetos should be checked at 2000 RPM with the propeller set at high RPM. Drop
+off on either magneto should not exceed 175 RPM and the difference between the magnetos
+should not exceed 50 RPM. Operation on one magneto should not exceed l0 seconds.
+. Check the vacuum gauge;the indicator should read 5.0" + .1" Hg at 2000 RPM. ;
+i Check both oil temperature and oil pressure. The temperature may be low for some time if
+the engine is being run for the first time of the day, but as long as the pressure is within limits
+the engine is ready for takeoff.
+Check the annunciator panel lights with the pressto-test buttonr.
+The propeller control sttould be moved through its complete range to check for proper
+operation, and then placed in full INCREASE RPM for takeoff. To obtain maximum RPM, push
+the pedestal mounted control fully forward on the instrument panel. Do not allow a drop of
+more than 500 RPM during this check. In cold weather the propeller control should be cycled
+from higlr to low RPM at least three times before takeoff to make sure that warm engine oil has
+circulated.
+The electric fuel pump should be turned off after starting or during warm-up to make sure
+that the engine driven pump is operating. Prior to takeoff the electric pump should be turned
+ON again to prevent loss of power during takeoff should the engine driven pump fail. The
+engine is warm enough for takeoff when the throttle can be opened without the engine
+faltering.
+rSerial nos. 7540001 and up
+OPERATING INSTRUCTIONS
+REVISED: JUNE 20,1974 74
+
+--- Page 73 ---
+CHEROKEE SIX - 3OO
+TAKEOFF
+Just before takeoff the following items should be checked:
+l. Fuel on proper tank
+2. Electric fuel pump on
+3. Engine gauges checked
+4. Alternate air closed
+5. Mixture set
+6. Propeller set
+7. Seat backs erect
+8. Fasten belts/harness
+9. Empty seats - seat belts snugly fastened
+I 0. Flaps l0' ( I st notch)
+I l. Trim tab set
+12. Controls free
+13. Doors latchOd
+L4. Air conditioner off
+The takeoff technique is conventional for the Cherokee Six. The tab should be set slightly
+aft of neutral, with the exact setting determined by the loading of the aircraft. Allow the
+airplane to accelerate to 65 to 70 MPH, then ease back on the wheel enough to let the airplane
+fly itself off the ground. Premature raising of the nose, or raising it to an excessive angle, will
+result in a delayed takeoff. After takeoff let the aircraft accelerate to the desired climb speed by
+lowering the nose slightly.
+Takeoffs are normally made with flaps extended 10" (first notch).
+Short Field, Obstacle Clearance:
+Lower flaps to 25" (second notch), accelerate aircraft to 65-70 miles per hour and ease
+back on the wheel to rotate. After breaking ground, accelerate to best angle of climb speed, 95
+miles per hour, and climb past obstacle. Continue climb and accelerate to best rate of climb
+speed, 105 miles per hour, and slowly retract the flaps.
+Short Field, No Obstacle:
+Lower flaps to 25o (second notch), accelerate aircraft to 65-70 miles per hour and ease
+back on the wheel to rotate. After breaking ground, accelerate to best rate of climb speed, 105
+miles per hour, and slowly retract the flaps while climbing out.
+Soft Field, Obstacle Clearance:
+Lower flaps to 25 " (second notch), accelerate aircraft, pull nose gear off as soon as
+possible and lift off at lowest possible airspeed. Accelerate just above the ground to best angle
+of climb speed, 95 miles per hour, to climb past obstacle clearance height. Continue climb while
+accelerating to best rate of climb speed, 105 miles per hour, and slowly retract the flaps.
+Soft Field, No Obstacle:
+Lower flaps to 25 " (second notch), accelerate aircraft, pull nose gear off as soon
+possible and lift off at lowest possible airspeed. Accelerate just above the ground to best rate
+climb speed, 105 miles per hour, and climb out while slowly retracting the flaps.
+OPERATING INSTRUCTIONS
+REVISED: FEBRUARY 2. 1976as
+of
+7-5
+
+--- Page 74 ---
+CHEROKEE SIX - 3OO
+CLIMB
+The best rate of climb at gross weight will be obtained at 105 miles per hour. The best
+angle of climb may be obtained at 95 miles per hour. At lighter than gross weight these speeds
+are reduced somewhat.* For climbing en route, a speed of I l5 miles per hour is recommended.
+This will produce better forward speed and increased visibility over the nose during the climb.
+When reaching the desired altitude, the electric fuel pump may be turned off.
+STALI,s
+The stall characteristics of the Cherokee Six :ue conventional. Visual stall warning is
+provided by a red light located on the left side of the instrument panel which illuminates
+automatically between 5 and l0 miles per hour above the stall speed. The gross weight stalling
+speed of the Cherokee Six with power off and full flaps is 63 miles per hour. With the flaps up
+this speed is increased 8 miles per hour. Loss of altitude during stalls can be as great as 350 feet,
+depending on configuration and power. The stall speed chart is at gross weight. Stallspeeds.at
+lo,wer weights will be corespondingly less.
+Stall speed in mph (Calibrated Airspeed):
+Flaps Up - 7l
+Flaps Down - 63
+CRI.IISING
+The cruising speed of the Cherokee Six is determined by many factors, including power
+setting, altitude, temperature,loading, and equipment installed on the airplane.
+The normal maximum cruising power is 75% of the rated horsepower of the engine. True
+airspeeds, which can be obtained at various altitudes and power settings, can be determined
+from the Performance Charts Section.
+When selecting cruising RPM below 2300, limiting manifold pressure for continuous
+operation, as specified by the appropriate "Avco-Lycoming Operator's Manual," should be
+observed.
+To obtain the desired power, set the manifold pressure and RPM according to the power
+setting table in this manual. After the desired power settings have been set up, adjust the
+mixture control for corresponding best power setting as indicated by the fuel flow meter. The
+low side of the power setting, as shown on the fuel flow meter, indicates best economy for that
+percent of power while the high side indicated best power.
+*To obtain the performance prcsented in the Performance Section of this manual, full power
+(full throttle and 2700 RPM) must be used.
+OPERATING INSTRUCTION S
+REVISED: FEBRUARY 2, 197 6 74
+
+--- Page 75 ---
+CHEROKEE SIX - 3OO
+Use of the mixture control in cruising flight reduces fuel consumption significantly,
+especially at higher altitudes. The mixture should be leaned during cruising operation above
+5000 feet altitude and at pilot's discretion at lower altitudes when 7 57o power or less is being
+used. If any doubt exists as to the amount of power being used, the mixture should be in the
+FULL RICH position for all operations under 5000 feet.
+To lean the rnixture, disengage lockr and pull the mixture control until the engine
+becomes rough, indicating that the lean mixture limit has been reached in the leaner cylinders.
+Then enrich the mixture by pushing the control towards the instrument panel until engine
+operation becomes smooth. The fuel flow meter will give a close approximation of the fuel
+being consumed.
+If the airplane is equipped with the optional exhaust gas temperature (EGT) gauge, a more
+accurate means of leaning is available to the pilot. Fbr this procedure, refer to the
+"Avco-Lycoming Operator's Manual."
+ln order to keep the airplane in best lateral trim during cruise flight, the fuel should be
+used alternately from each main tank, and when these are nearly exhausted, from each tip tank.
+It is recommended that one main tank be used for one hour after takeoff, the other main tank
+used until nearly exhausted, then retum to the first main tank. When nearly exhausted, turn to
+one tip tank and alternate at one-half hour intervals to maintain lateral trim.
+The following listing contains, as a reminder, a few of the more highly recommended fuel
+operation procedures:
+l. Fuel quantity should be visually checked in all fuel tanks before entering the aircraft.
+2. After using the undeneat quick drain, it should be checked from outside the aircraft
+to make sure it has closed completely, and is not leaking.
+3. Takeoff should be mide on the tank with the highest quantity of fuel to assure best
+fuel flow, and this tank selected before or immediately after starting in order to allow
+fuel flow to be adequately established before takeoff. The tank with the highest
+quantity of fuel strould be selected for landing.
+Fuel tank selection at low altitude is not recommended, since little recovery time is
+available in the event of an elTor in tank selection. When switching tanks, make sure
+that the selector drops into a detent, and is lined up with the desired tank.
+The electric fuel pump should be turned on before switching tanks, and should be left
+on for a short period thereafter.
+To preclude making a hasty selection, and to provide continuity of flow, the selector
+should be changed to another tank before fuel is exhausted from the tank in use.
+Operation of the engine driven fuel pump should be checked while taxiing or during
+pretakeoff engine run up by switching off the electric fuel pump and observing fuel
+pressure.
+During cruise, the electric fuel pump should be in the off position so that any
+malfunction of the engine driven fuel pump is immediately apparent.
+If signs of fubl starvation should occur at any tirne during flight, fuel exhaustion
+should be suspected, at which time the fuel selector should be immediately positioned
+to a full tank and the electric fuel pump switched to the on position,
+When the seventh seat is used, all weight in excess of 3l 12 pounds must be in fuel
+weight only. Fill tip tanks first and use fuel from main tanks first.
+*Serial nos. 7540001 and up
+OPERATING INSTRUCTIONS
+REVISED: JUNE 20.19744.
+5.
+6.
+7.
+8.
+9.
+10.
+7-7
+
+--- Page 76 ---
+l.|$|li|]li|ll||]L||]l|l1!11jlll|{ll|llilJl|Nl$llflffiIflffiI
+CHEROKEE SIX.3OO
+TURBULENT AIR OPERATION
+In keeping with good operating practice used in all aircraft, it is recommended that when
+turbulent air is encountered or expected, the airspeed be reduced to maneuvering speed to
+reduce the structural loads caused by gusts and to allow for inadvertent speed build-ups which
+may occur as a result of the turbulence or of distractions caused by the conditions.
+MANEUVERS
+Intentional spins are prohibited in this airplane. [n the event that an inadvertent spin
+occurs, standard recovery technique should be used immediately.
+APPROACH AND LANDING
+Before landing check list:
+l. Seat backs erect
+2. Fastenbelts/harness
+3. Air Conditioning off
+,4. Fuel on proper tank
+'ir5. Electric fuel pump on
+t0. Mixture rich
+l:,7 . Propeller set
+8. Flaps down (125 mph)
+The airplane should be trim'med-to an approach speed of about 90 miles pcr hour with
+flaps extended. The flaps can be lowered at speeds up to 125 miles per hour, if desired. The
+propeller should be set at approximately 2500 RPM to facilitate ample power for an emergency
+go-around and to prevent overspeeding of the engine if the throttle is advanced sharply. The
+mixture control should be kept in full rich position to insure maximum acceleration if it should
+be necessary to open the throttle again.
+The amount of flap used during landings and the speed of the aircraft at contact with the
+runway should be varied according to the landing surface and conditions of wind and airplane
+loading. It is generally good practice to contact the ground at the minimum possible safe speed
+consistent with existing conditions.
+Normally, the best technique for short and slow landings is to use full flap and enough
+power to maintain the desired airspeed and approach flight path. Mixture should be full rich,
+fuel on the fullest tank, and electric fuel pump on. Reduce the speed during the flareout and
+contact the ground close to the stalling speed (63 to 70 MPH). After ground contact hold the
+nose wheel off as long as possible. As the airplane slows down, drop the nose and apply thc
+brakes. There will be less chance of skidding the tires if the flaps are retracted before applying
+the brakes. Braking is most effective when back prcssure is applied to the control wheel, putting i
+most of the aircraft weight on the main wheels. In high wind conditions, particularly in strong
+crosswinds, it may be desirable to approach the ground at higher than normal speeds with
+partial or no flaps.
+OPERATING INSTRUCTIONS
+ISSUED: JULY 12,1973 7-8
+
+--- Page 77 ---
+CHEROKEE SIX - 3OO
+STOPPING ENGINE
+At the pilot's discretion, the flaps should be raised and the electric fuel pump turned off.
+After parking, the air conditioner and radios should be turned off, the propeller set in the full
+increase position, and the engine stopped by disengaging the mixture control lock* and pulling
+the mixture control out to idle cutoff. The throttle should be left full aft to avoid engine
+vibration while stopping. Then the magneto and master switches must be turned off and the
+parking brake set.
+AIRSPEED DATA
+All ainpeeds quoted in this manual are calibrated unless otherwise noted. Calibrated
+airspeed is indicated airspeed corrected for instrument and position errors. The following table
+gives the conelation between indicated airspeed and calibrated airspeed if zero instrument error
+is assumed. This calibration is valid only when flown at maximum gross weight in level flight.
+Flaps 0o
+IAS - MPH
+CAS. MPH
+Flaps 40o
+IAS - MPH
+CAS - MPH60 70
+70 78
+93'to 80
+76 8460
+68AIRSPEED CORRECTION TABLE
+80 90 100 1 l0 120 130
+85 94 t02 I I l t20 130
+100 ll0 120
+l0l ll0 l19t40
+139150
+148160 170
+157 t66
+90
+MOORING
+The Cherokee Six should be moved on the ground with the aid of the nose wheel tow bar
+provided with each plane and secured behind the rear seats. Tie downs can be secured to rings
+provided under each wing and to the tail skid. The aileron and stabilator controls should be
+secured by looping the safety belt through the control wheel and pulling it snug. The rudder is
+held in position by its connections to the nose wheel steering and normally does not have to be
+secured. The flaps are locked when in the full up position and should be left retracted.
+WEIGHT AND BALANCE
+It is the responsibility of the owner and pilot to determine that the airplane remains within
+the allowable weight vs. center of gravity envelope while in flight. For weight and balance data
+see the Airplane Ftght Manual and Weight and Balance Sections.
+OPERATING INSTRUCTIONS
+REVIS.D: ruNE 20.1974*Serialnos. 7540001 and up
+
+--- Page 78 ---
+CHEROI(EEsrx- 300
+Air Conditioner Controls
+AIR CONDITIONING'T
+To operate the air conditioning system either on the ground or in flight:
+I. Start the engine.
+2. Turn the air conditioning Master Switch to "ON."
+3. Turn "TEMP" control to desired temperature. Clockwise rotation increases cooling.
+4. Select desired "FAN" position, "LOW," "MED' or "HIGH."
+AIR CONDITIONER OPERATIONAL CIIESK PROCEDURE
+Prior to takeoff the air conditioner should be checked for proper operation as follows:
+l. Check aircraft Master Switch ON.
+2. Select desired 6'FAN" position, "LOW," "MED" or "HIGH."
+3. Turn the air conditioner control switch to "ON" - the "Air Cond. Door Open"
+warning light wi[ turn on, thereby indicating proper air conditioner condenser door
+actuation.
+4. Turn the air conditioner control switch to "OFF" - the "Air Cond. Door Open"
+warning lieht will go out, thereby indicating the air conditioner condenser door ib'in
+the up position.
+rOptional equipment
+OPERATING INSTRUCTIONS
+REVISED: JAI{UARY ll, 197 4 7-10
+
+--- Page 79 ---
+CHEROKEE SIX - 3OO
+5. tf the "Air Cond. Door Open" light does not respond as specified above, an air
+conditioner system or indicator bulb malfunction is indicated, and further
+investigation should be conducted prior to flight.
+The above operational check may be performed during fliglrt if an in flight failure is
+suspected.
+AIR CONDITIONER EFFECTS ON AIRPLAT.IE PERFORMANCE
+Operation of the air conditioner will cause slight decreases in cruise speed and range. Power
+from the engine is required to run the compressor, and the condenser door, when extended,
+causes a slight increase in drag. When the air conditioner is turned off there is normally no
+measurable difference in climb, cruise or range performance of the airplane.
+NOTE
+To insure maximum climb perfornance the air conditioner must
+be furned off manually before takeoff to disengage the
+compressor and retract the condenser door. Also the air
+conditioner must be turned off manually before the landing
+approach in preparation for a possible go-around.
+i Although the cruise speed and range are only slightly affected by the air conditioner
+.operatiou, these changes should be considered in preflight planning. To be conservative, the,following figures assume that the compressor is operating continuously while the airplane isiairborne. This will be the case only in extremely hot weather.
+The decrease in true airspeed is approximately 5 mph at all power settings.
+The decrease in range may be as much as 35 statute miles for the 84 gallon capacity.
+The climb performance is not compromised measurably with the air conditioner operating
+since the compressor is declutched and the condenser door is retracted, both automatically,
+when a full throttle position is selected. When the full throttle position is not used or in the
+event of a malfunction which would cause the compressor to operate and the condenser door to
+be extended, a decrease in rate of climb of as much as 100 fpm can be expected. Should a
+malfunction occur which prevents condenser door retraction when the compressor is turned olT,
+a decrease in rate of climb of as much as 50 fpm can be expected.
+EMERGENCY LOCATOR TRANSMITI:ER*
+The Emergency Locator Transmitter (ELT) when installed, is located in the aft portion of
+the fuselage just below the stabilator leading edge and is accessible through a plate on the right
+side of the fuselage. (On aircraft manufactured prior to mid-1975, this plate is retained by three
+steel Phillips head screws. On aircraft manufactured from mid-1975 and on, this plate is attached
+with three slotted-head nylon screv/s for ease of removal; these screws may be readily removed
+with a variety of common items such as a dime, a key, a knife blade, etc. If there are no tools
+available in an emergency the screw heads may be broken off by any means.) The ELT is an
+emergency locator transmitter which meets the requirements of FAR 91.52. The unit operates on
+a self-contained battery. The replacement date as required by FAA regulations is marked on the
+transmitter label.
+*Optional equipment
+OPERATING IN STRUCTIONS
+REVISED: DECEII{BER 15. 1978l.
+2.
+7-tl
+
+--- Page 80 ---
+CHEROKEE SIX.3OO
+The unit is equipped with a portable antenna to allow the locator to be removed from the
+airplane in case of an emerpncy and used as a portable signal transmitter.
+A pilot's remote switch, located on the left side panel, is provided to allow thc transmittcr
+to be controlled from inside the cabin.
+l.On some models the pilot's remote switch has flrree positions and is placarded "ON,"
+"AUTO/ARM," and "OFFIRESET." The switch is normally left in the
+"AUTO/ARM" position. To turn the transmitter off, move the switch momentarily
+to the "OFF/RESET" position. The aircraft master switch m.ust be "ON" to turn the
+transmitter "OFF," To activate the transmitter for tests or other reasons, move the
+switch upward to the e'ON" position and leave it in that position as long as
+transmission is desired:
+On other models the pilot's remote switch has two positions and is placarded
+"ON/RESET" and "ARM (NORMAL POSITION)." Tlte switch is normally left in the
+down or "ARM" position. To turn the transmitter off, move the switch to the
+"ON/RESET" position for one second then return it to the "ARM' position. To
+activate the transmitter for tests or other reasons, move the switch upward to the
+"ON/RESET" position and leave it in that position as long as transmission is desired.
+NOTE
+If the switch has been placed in the "ON:' position for any
+reason, the "OFF" position has to be selected before selecting
+"ARM." lf "ARM" is selected directly from the "ON" position,
+the unit will con.tinue to tran.srnit in the "ARM" position.
+The locator should be checked during the ground check to make certain the unit has not
+been accidentally activated. Check by tuning a radio receiver to 121.5 MHz. If there is an
+oscillating sourrd, tlte locator may ltave been activated and should be turned off immcdiatcly.
+Reset to the "ARM" position and check again to insure against outside interference.
+NOTE
+If for any reason a test transmission is necessary, the test
+transmission .should be conducted only in the fint five minutes
+of any hour and limited to three audio sweeps. If tests must be
+made at any other time, the tests should be coordinated witlt the
+nearest FAA tower or flight service station.)
+OPERATING INSTRUCTIONS
+REVISED: JUNE 2,1977 7-12
+
+--- Page 81 ---
+(IPERATII{G TIPS
+Operating Tips g_ I
+
+--- Page 82 ---
+CHEROKEE SIX.3OO
+OPERATING TIPS
+The following Operating Tips are of particular value in the operation of the Cherokee
+PA-32-300.
+l. Learn to trim for takeoff so that only a very light back pressure on the wheel is
+required to lift the airplane off the ground.
+The best speed for takeoff is about 70 MPH under normal conditions. Trying to pull
+the airplane off the ground at too low an airspeed decreases the controllability of the
+airplane in event of engine failure.
+Flaps may be lowered at airspeeds up to 125 MPH. To reduce flap operating loads, it
+is desirable to have the airplane at a slower speed before extending the flaps.
+Before attempting to reset any circuit breaker, allow a two to five minute cooling off
+period.
+Before starting the engine, check that all radio switches, light switches and the pitot
+heat switch are in the off position so as not to create an overloaded condition when
+the starter is engaged.
+The overvoltage relay is provided to protect the electronics equipment from a
+momentary overvoltage condition (approximately 16.5 volts and up), or a
+catastrophic regulator failure. In the event of a momentary condition, the relay will
+open and the ammeter will indicate "0" output from the alternator. The relay may be
+reset by switching the ALT switch to OFF for approximately one second and then
+retuming the ALT switch to ON. If after recycling the ALT switch the condition
+persists, the flight should be terminated as soon as practical. Reduce the battery load
+to a minimum. The ALT light on the annunciator panel* will illuminate if the
+alternator fails. Recycle the ALT switch and check the ALT FIELD circuit breaker. If
+the failure persists after this action, reduce electrical loads and land as soon as
+practical.
+The vacuum gauge is provided to monitor the pressure available to assure the correct
+operating speed of the vacuum driven gyroscopic flight instruments.It also monitors
+the condition of the common air filter by measuring the flow of air through the filter.
+If the vacuum gauge does not register 5" t .10" Hg at 2000 RPM, the following
+items should be checked before flight:
+a. Common air filter could be dirty or restricted.
+b. Vacuum lines could be collapsed or broken.
+c. Vacuum pump worn.
+d. Vacuum regulator, not adjusted correctly. The pressure, even though set
+corectly, can read lower under two conditions: (l) Very high altitude,
+above 12000 feet, (2) Low engine RPM, usually on approach or during
+training maneuvers. This is normal and should not be considered a
+malfunction.
+*Serial nos. 7540001 and up
+OPERATING TIPS
+REYISED: JULY t7.19752.
+3.
+4.
+5.
+6.
+7.
+8-1
+
+--- Page 83 ---
+CHEROKEE SIX - 3OO
+8. The shape of the wing fuel tanks is such that in certain maneuvers the fuel may move
+away from the tank outlet. If the ouflet is uncovered, the fuel flow will be
+itrterrupted and a temporary loss of power may result. Pilots can prevent inadvertent
+uncovering of the outlet by avoiding maneuvers which could result in uncovering the
+outlet.
+Extreme running turning takeoffs should be avoided as fuel flow interruption
+may occur.
+Prolonged slips or skids which result in excess of 2000 feet of altitude loss, or
+other radical or extreme maneuvers which could cause uncovering of the fuel outlet
+must be avoided as fuel flow interruption may occur when tank being used is not full.
+Anti4ollision lights should not be operating when flying through overcast and clouds,
+since reflected light can produce spacial disorientation. Do not operate strobe lights
+when taxiing in the vicinity of other aircraft.
+The rudder pedals are suspended from a torque tube which extends across the
+fuselage. The pilot should become familiar with the proper positioning of his feet on
+the rudder pedals so as to avoid interference with the torque tube when moving the
+rudder pedals or operating the toe brakes.
+In an effort to avoid accidents, pilots should obtain and study the safety related
+information made available in FAA publications such as regulations, advisory
+circulars, Aviation News, AIM and safety aids.
+OPERATING TIPS
+REVISED: FEBRUARY 2. 197 69.
+10.
+I l.
+8-2
+
+--- Page 84 ---
+PERF(|R}IA}ICE CHARTS
+Altitude Conversion Chart
+Takeoff Performance (Flaps l0' )
+Takeoff Performane (Flaps 25" )
+Climb Performance
+Cruise Performance
+Cruise Performance - Range (3400 Lbs Gross Wt)
+Cruise Performance - Range (2900 Lbs Gross Wt)
+Glide Performan@ 9-8
+Stalling Speed vs Weight 9-9
+Stalling Speed vs Angle of Bank 9- l0
+Landing Performane
+Power Setting Table9-l I>-L
+9-2
+9-3
+9-4
+9-5
+9-6
+9-7
+9-t2
+
+--- Page 85 ---
+CIIEROKEE SIX - 3OO
+PA-32-300
+2t000
+20000CHEROKEE SIX
+PERFORMANCE CHARTS
+ISSLJED: Jt LY 12,1973F
+l.| 16000
+EI
+E
+F
+> 12000
+v,
+-Ll
+EI
+8000
+t000
+stlllllllllll
+ALTUTUDE CONVERSUON GHART
+THIS CHART SHtlUTIl BE USED Ttl
+DETER}IIIIE DI}ISIW ALTITUDE
+M(lil EXISTIIIG TEHPERATURE
+AIII! PRESSURE ATTITUI|T C(III|IITI(I]IS
+I(lR USE ITITII PTRf(IRIIAIICE CHARTS.
+STD.TEii'\ .$sil
+\
+\@
+\iF9-
+\s.$l
+;,7<_
+=T\rup+\@
+I \..db-
+I \v
+.{0 -20 0 20 f0 E0 80 100
+TETPERATURE."F
+9-l
+
+--- Page 86 ---
+CHEROKEE SIX.3OO
+PA-32-300
+CHEROKEE SIX
+- 6000
+l!
+r*l
+EI=
+E 5ooo
+6
+-H looo
+2000 3000 {000
+TAfG-0FF DISTAIICE lFT.l
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+INSTALLATION ON PER FORMANCE,r 000
+PERTORMANCE CIIARTS
+REIIISED: IUNE 2n. 1974TAKE@FF PERFORMANGE
+' TAKE0FF SPEED 1.2 Ys
+_ FLIPS t0'
+PAVEI| tEVEt DRY RU]IIIAY
+zER0 wtilo -i
+FULI PIIIVER BTT(IRT BRAKE REI.EASE I
+TXTRAP(ITATIOII (lF CHART AB(IYE T(tO(l FT. IS IIIYAIID
+3400lBS.
+- 2s00LBs.
+9-2
+
+--- Page 87 ---
+CHEROKEE SIX.3OO
+PA-32-300
+CHEROKEE SIX
+1000 5000
+TAfG.ort DtsTAr{cE lFT.l*o"',t*?liJl'i^lJSi.t^'.'ot-T:nff..^'*coNDrrroNrNG
+PERFORI\.TANCE CHARTS
+REVISED: JUNE 20.1974- 0000
+lr
+r{EI
+E 5000
+<'
+>F
+aat
+-,Ei ioooTAKE@FF PERFORMANCE
+TATE0FF SPEED 1.2 Ys
+FIAPS 25'
+PAYED TEYET DRY RU}ITIAY
+zER(l wlllD
+FUtt PIIYIER BET(IRE BRAI(E RTTEASE
+EXTRAP(II.ATIOII (lT CHART AB()YE T(lO(l TT. IS IIIYAI.III
+3400 [BS.
+- 2900 tBs,
+9-3
+
+--- Page 88 ---
+CITEROKEE SD( .3OO
+n
+I
+1 8000PA-32-300
+CHEROKEE SIX
+_GLIMts PERF@RMANCE
+FIAPS r0' Ir05 ilPH CAS _l
+3400 LBS. GR(ISS v{EtcilT IPOWER . TUtt THROIII.E I
+- ttAlr PER l.Y0(lil]rc tlrslRUCTr(l IXTURE\
+il l{s
+\
+\
+\u
+RAII
+r8s0r.ll
+IEIGHI @2r
+:0t cutB
+UTE GEILIII,
+llt00 t
+I 351
+B2rBS
+I TPil
+,500 |iT\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+200 100 600 800 t000 1200r6000
+rf000
+- t2000
+lr
+,-,-tt
+= tnnnn
+d
+-H sooo
+6000
+10 00
+20[l
+RATE 0t CutE ltl. PEn tlil.l
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITION|NG
+INSTA LLATION ON PERFORMANCE.
+PERFOR.II{ANCE CHARTS
+REVISED: ILJNE 20,197494
+
+--- Page 89 ---
+CHEROKEE SIX - 3OO
+PA-32-300
+CHEROKEE SIX
+GRUISE PERF@RMANGE - TRUE AORSPEED
+w}|tEt tAtRH0S iltSTALtED
+BTST P()I{ER
+lilxTuRE - tEAll PER tyc0il|ro tilsTRucTt0l{s
+ll0Tt: SUBTRACT 3 tPtl lF
+trHrrt FAIRHGS ARt
+IIl)I IItSTAtLED.
+t{
++ 8000
+Lla
+t-
+1
+; 6000
+U7
+-t^l
+EI
+130 r10 !50 160 t70 t80
+TRUE ATRSPETOIIPH
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+INSTALLATTON ON PERFORMANCE.
+PERFORMANCE CHARTS
+lE\rIlED: JLJNE ?n, 197 13100 rBs.
+2900 LBS.
+9-5
+
+--- Page 90 ---
+CHEROKEE SIX.3OO
+PA-32-300
+CHEROKEE SIX
+eRt0s
+XTURI PEtsF@tsMANGE -, R4
+3400 Poulros GR(lss fiHcllr I
+81 cAL. T0TAr rurr i-
+: ITHEEL fAtRmGS HSTALLED l--I BEST ECoil0rY I
+E - ttAlr PtR tyc0iilltc tilsTRucTt(ll
+IrltlllN(E
+ltl s
+'Ill RESEIYE
+15 $il. RESERYE
+IAI
+rl_ltPERCElII
+RATTIl
+P(lY{ERAPPRllx.
+OPH
+75 | 8.0
+7A 14.8
+65 I 3.8
+60 12.7
+55 il.9FF
+557o!-
+l-
+P0|Ytl
+lllil*raa)nl
+I
+1.:.oS
+Q.
+-qoaII
+s
+e-s!tf!I
+I
+*t
+IIIt
+qIIl
+I
+IIti,II
+I
+II
+ItirlII 6000
+r_ 12000
+r.lr*l?
+l*l
+GI
+ts 8000
+>.
+a
+fr 4000
+ET
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+I NSTALLATION ON PER FORMANCE.700 800 900 1000
+RAIIGE.STATUTE iIItESil00
+PERFORMANCE CHARTS
+REVISED: JLTNE 20.1974 94
+
+--- Page 91 ---
+CHEROKEE SIX - 3OO
+PA-32-300
+CHEROKEE SIX
+600 700 800 900 1000 il00
+RAIIGE.STAIUTT TITES
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+I NSTALLATION ON PER FORMANCE.fi
+it
+ri
+ii
+r 6000
+l4l+ r2ooo
+r4la
+<
+> 8000
+u|t
+-Ll
+EI
+1000GRU0sEPERFORMANGE -
+2900 P0ult0s GR0ss TYHG]|T
+84 GAt. T(ITAL FUEL
+YTHTET FAIRITIGS IIISTIILEO
+BEST EC(III(ITYRANGE
+illI rulrt - rtAil t,Ht LYuuiililE HSTBI
+ttttlrGTtults
+P ERCTIIT
+RATEO
+P0rf tRIPPR()X.
+SPlf
+75r 6.0
+70 t1.8
+65 t 3.8
+60 12.1
+55 il.9
+lIO RESERYE
+15 iltil. RISERVI AT 55% P0V{ER
+,?l3/
+.oo/Ilr8/r
+e
+--lirI-sc.
+Q13, ^o/'r
+rRItl
+e- lR/sltII[!tII
+e* ll
+o.* llI,t,/tIII
+IilI
+Il1
+I
+II
+I'liI
+II
+I
+PERFORIIIANCE CIIARTS
+RE\IISED: JLJNE 20, 1971
+
+--- Page 92 ---
+CHEROKEE SIX.3OO
+r 6000
+t {000PA-32-300
+CHEROKEE SIX
+5t0152025
+8U0t 0tsTtnGE . STAIUTE iltES
+NOTE: SEE SECTION 7 FOR EFFECTS OF Al R CONDlTloNlNc
+INSTALLATION ON PEB FORMANCE.r2000
+g-
+= r0000
+eetr|
+t-
+trl
+E 8000
+tal
+C3
+l-
+5 6000
+{000
+2000
+st
+PERFORMANCE CEARTS
+REYISED: JLJNE 20.1974I I
+GLODE PERFORMANGE
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+3100 t8 . t00 flPH
+2900 t8 . g0 tPfi
+PR0P Wlil|,ntuttc
+0' tllPs . ztn0 lllflll
+ttl{/
+/
+/
+/
+/
+9{
+
+--- Page 93 ---
+PA-32-300
+CHEROKEE SIX
+llll
+STALLONG SPEED
+Vs
+WEIGHT
+P0rfrn 0rr
+1800 2000 2200 2{00 2600 2800 3000
+GR0SS WElElrT - P(|UilIlS
+NOTE: SEE SEcTlOfi 7 FOR EFFECTS OF AIR CONDITIONING
+I NSTA LLATION ON PERFORMANCE.
+PERFORMANCE CHARTS
+ISSUED: JULY 12,t973?0
+vt
+c,
+4
+-60I
+alr,Llr
+-50
+va
+{0
+
+--- Page 94 ---
+CHEROKEE SIX.3OO
+v,
+cr 90
+r
+-I
+F80EILU'
+j
+'o 70PA-32-300
+CHEROKEE SIX
+l0 20 30 f0 50
+AIIBIE O] BT}II( - DEBREES
+NOTE: SEE SECTION 7 FOR EFFECTS OF AIF CONOITIONING
+INSTALLATION ON PERFORMANCE.
+PMFORMANCE CHARTS
+ISISUED: JULY 12,1973STALLING SPEED
+Vs
+ANGLE @F BANK
+tvflGllT - 3400 P0ullDs
+9-10
+
+--- Page 95 ---
+CITEROKEE SIX.3OO
+PA-32-300
+CHEROKEE SIX
+ulrDilrc .DtsTrlrcE lrT.l
+NorE'iftE'lEf i,B^li""ir;?'"tr"J:"o;:'tcoNorrroNrNc
+PERFORMANCE CHARTS
+REYISED: JUNE 20.1914E oooo
+Lta
+=
+= 5000
+>Ev?
+-E tooo
+2 000
+| 000
+r000
+9-11ttrrrrttl_ LANDONG PERF@RMANCE _
+P0ffiR ffir tuPs l0' PtYt0 ttvEt |lRy Ruilwty
+illl wtl{|l ttxttut Bnilflltc
+I
+I
+I
+I
+I
+I
+€a:-s-=€e
+C!,L
+rai
+- 3100rBs. cw-Fr--- l
+l-3 I
+-- isoorBs. Gt,r' Ilt,
+€lsnI
+-** I
+€1 |t/
+I
+I I
+I
+I
+I
+r200
+
+--- Page 96 ---
+\o
+I
+h)
+Power Setting Table[ycoming Model l0-540-K,-[,-il Series, 300 HP EngineoErrlFoxti
+IT'
+(A
+X
+;o0o
+Press.
+Alr
+FeatStd Alr
+Temp
+off65 HP - 55Vo Roted
+RPM AND MAN. PRESS.
+2100 2200 2300 2400195 HP - 657o Rotcd
+RPM AND MAN. PRESS.
+2f00 2200 2300 2400225 HP - 75Vo Rotad
+RPM AND MAN. PRESS.
+2200 2300 2400Pres s.
+Alr
+Feet
+SL
+1,000
+2,000
+3,00059
+55
+52
+4822.5 2t.8 2L.2
+22.3 2t-6 2r.0
+22.1 2L.4 20.7
+21.9 21.2 20.525.6 24.7 23.8
+25.3 24.4 23.5
+25.L 24.2 23.3
+24.8 23.9 23.027.6 26.6 25.8
+27.3 26.3 25.5
+27.L 26.t 25.2
+26.8 25.8 24.920.7
+20.5
+20.2
+20.023.2
+22.9
+22.7
+22.5SL
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,00019.8
+19.6
+19.3
+19.122.8
+22.5
+22.3
+22.022.2
+22.0
+2L.7
+2L.54,000
+5,000
+6,000
+7,00045
+4L
+38u21.7 2t.0 20.3
+21.5 20.8 20.1
+2r.3 20.6 19.8
+2r.0 20.4 19.624.6 23.7
+24.3 23.5
+24.0 23.2
+23.7 22.926.5 25.6 24.6
+25.3 24.4
+25.0 24.1
+- 23.8
+8,000
+9,000
+10,000
+11,00031
+27
+23
+1920.8 20.2 t9.4
+20.6 20.0 19.2
+20.4 19.8 19.0
+20.2 19.6 18.718.9
+18.6
+18.4
+t8.222.5 2r.8 2L.2
+2L.5 2t.0
+2L.2 '20.7
+20.48,000
+9,000
+10,000
+11,000
+12,000
+13,000
+14,000
+15,00016
+L2
+9
+520.0 r9.4 18.5
+L9.2 18.3
+: : t:'or8.0
+t7.7
+L7.3
+16.912,000
+13,000
+14,000
+15,000E
+6fl(,lrneoFE
+-lezt8
+pO
+sr !E"cE
+{F!
+l.)UtTo maintain constarrt power, correct manifold pressure approximately 0.18" Hg for each 1OF variation in induction air
+temperature from standard altitude temperature. Add manifold pressure for air temperature above standard; subtract for
+temperature below standard.230 047.6t0915
+
+--- Page 97 ---
+HA}IDLI}IG A]ID SERYICIIIG
+Ground Hand!:.g lGl
+tGl
+lGlra-2To*'tng
+Taxiing
+Parkine
+Moonng lO-2
+Cleaning lG3
+Cleanrng Engine Compartment l0-3
+Cleaning Landing Gear . lG3
+Ei;ilili*llt*'t:gx'.:s;x.n:r: , , , , , : : : : . . . . : : : : , , , , , , , lfi
+EngineAirFilter .:.. lG5
+Removing Engine Air Filter I G5
+Cleaning Engine Air Filter lG'5
+Installation of Engine Air Filter I G5
+BrakeService ......, lG5
+Landing Gear Service lG7
+Propeller Service '. I G8
+Oil Requirements lG8
+Fuel Svstem lG8
+Servicing Fuel System I G8
+Fuel Requirements I G8
+Filling Fuel Tanks I G8
+Draining Fuel Valves and Lines 1G9
+Draining Fuel System lGlO
+Tire Inflation lGl0
+Battery Service 1G'10
+Facts You Should Know 1Gl0
+Preventive Maintenance lGl2
+Required Service and lnspection Periods lGl3
+lGi
+
+--- Page 98 ---
+CHEROKEE SIX. 3OO
+HANDLING AND SERVICING
+This section contains information on preventive maintenance. Refer to the PA-32 Service
+Manual for furrher maintenance procedures. Any complex repair or modification should be
+accomplished b1' a Piper Certified Sewice Center.
+GROUND HA}iDLING
+TOWING
+The airplane may be moved on the ground by the use of the nose wheel steering bar
+that is stowed below the fonvard ledge of the rear baggage compartment or by power
+equipment that will not damage or excessively strain the nose gear steering assembly.
+Towing lugs are incorporated as part of the nose gear forks.
+CAUTION
+When towing with power equipment, do not turn the nose gear
+beyond its steering radius in either direction, as this will result in
+damage to the nose gear and steering mechanism.
+CAUTION
+Do not tow the airplane when the controls are secured.
+In the event towing lines are necessary, ropes should be attached to both main gear
+struts as high up on the tubes as possible. Lines should be long enough to clear the nose
+and/or tail by not less than fifteen feet, and a qualified person should ride in the pilot's
+seat to maintain control by use of the brakes.
+TAXIING
+Before attempting to taxi the airplane, ground personnel should be instructed and
+approved by a qualified person authorized by the owner. Engine starting and shutdown
+procedures as well as taxi techniques sttould be covered. When it is ascertained that the
+propeller back blast and taxi areas are clear, power should be applied to start the taxi roll,
+and the following checks should be performed:
+a. Taxi a few feet forward and apply the brakes to determhe their effectiveness.
+b. Taxi with the propeller set in low pitch, high RPM setting.
+c. While taxiing, make slight turns to ascertain the effectiveness of the steering.
+d. Observe wing clearances when taxiing near buildings or other stationary objects.
+If possible, station an observer outside the.airplane.
+e. When taxiing over uneven ground, avoid holes and ruts.
+f. Do not operate the engine at high RPM when running up or taxiing over ground
+containing loose stones, gravel, or any loose material that may cause damage to
+the propeller blades.
+HAI\DLING AND SERVICING
+ISSLJED: JULY 12,1973
+l1Gl
+
+--- Page 99 ---
+CHEROKEE SIX - 3OO
+PARKING
+When parking the airplane, be sure that it is sufficiently protected from adverse
+weather conditions and that it presents no danger to other aircraft. When parking the
+airplane for any length of time or overnight, it is suggested that it be moored securely.
+a. To park the airplane, head it into the wind if possible.
+b. Set the parking brake by pulling back on the brake lever and depressing the knob
+on the handle. To release the parking brake, pull back on the handle until the
+catch disengages; then allow the handle to swing forward.
+CAUTION
+Care should be taken when setting brakes that are overheated or
+during cold weather when accumulated rnoisture may freeze a
+brake.
+c. Aileron and stabilator controls may be secured with the front seat belt. Wheel
+chocks may be used if available.
+MOORING
+The airplane should be moored for immovabitity, security, and protection. The
+following procedures should be used for the proper mooring of the airplane:
+a. Head the airplane into the wind if possible.
+b. Retract the flaps.
+c. Immobilize the ailerons and stabilator by looping the seat belt through the
+control wheel and pulling it snug.
+d. Block the wheels.
+e. Secure tiedown ropes to the wing tiedown rings and to the tail skid at
+approximately 45 degree angles to the ground. When using rope of non-synthetic
+material, leave sufficient slack to avoid damage to the airplaae should the ropes
+contract.
+CAUTION
+Use bowline knots, square knots or locked slip knots. Do not use
+plain slip knots.
+NOTE
+Additional preparations for high winds include using tiedown
+ropes from the landing gear forks and securing the rudder.
+t. . Install a pitot head cover if available. Be sure to remove the pitot head
+before flight.
+g. Cabin and baggage doors should be locked when the airplane is unattended.
+IIANDLING AND SERVICING
+IfISUED: JULY 12,1973 ro2
+
+--- Page 100 ---
+CHEROKEE SIX - 3OO
+CLEANING
+CLEANING E\Gt\E COIIPARTI1ENT
+Before ,--:::.-:g :l-.: :r.gine compartment, place a strip of tape on the magneto vents
+to prevent ar.;. s:."::.i :rcr.r entering these units.
+a. Pl:ce ; .ar;:: pan under the engine to catch waste.
+b. \\'irh ;Ii: ergine cowling removed, spray or brush the engine with solvent or a
+r.liLxture cf solvent and degreaser. In order to remove especially heavy dirt and
+greas deposits, it may be necessary to brush areas.that were sprayed.
+CAUTION
+Do not spray solvent into the alternator, vacuum pufirp, starter,
+or air intakes.
+c. Allow the solvent to remain on the engine from five to ten minutes. Then rinse- the engine clean with additional solvent and allow it to dry.
+CAUTION
+Do not operate the engine until excess solvent has evaporated or
+oUrerwise been removed.
+d. Remove the protective tape from the magnetos.
+e. Lubricate the controls, bearing surfaces, etc., in accordance with the Lubrication
+Chart.
+CLEANING LANDING GEAR
+Before cleaning the landing gear, place a
+material over the wheel and brake assemblv.cover of plastic or a similar waterproof
+a. Place a pan under the gear to catch waste.
+b. Spray or brush the gear area with solvent or a mixture of solvent and degreaser.
+In order to remove especially heavy dirt and grease deposits, it may be necessary
+to brush areas that were sprayed.
+c. Allow the solvent to remain on the gear from five to ten minutes. Then rinse the
+gear with additional solvent and allow it to dry.
+d. Remove the cover from the wheel and remove the catch pan.
+e. Lubricate the gear in accordance with the Lubrication Chart.
+HANDLING AND SERVICING
+ISSUED: JULY 12,1973
+
+--- Page 101 ---
+CHEROKEE SIX,3OO
+CLEANING EXTERIOR SURFACES
+The airplane should be washed with a mild soap and water. Harsh abrasives or alkaline
+soaps or detergents could make scratches on painted or plastic surfaces or could cause
+corrosion of metal. Cover areas where cleaning solution could cause damage. To wash the
+airplane, use the following procedure:
+a. Flush away loose dirt with water.
+b. Apply cleaning solution with a soft cloth, a sponge or a soft bristle brush.
+c. To remove exhaust stains, allow the solution to remain on the surface longer.
+d. To remove stubborn oil and grease, use a cloth dampened with naphtha.
+e. Rinse all surfaces thoroughly.
+f. Any good automotive wax rnay be used to preserve painted surfaces. Soft
+' cleaning 'cloths'or a'chamois'should' be,used',to'prevent scratches'when cleaning
+or polishing. A heavier coating of wax on the leading surfaces will reduce the
+abrasion problems in these areas.
+CLEANING WINDSHIELD AND WINDOWS
+a. Remove dirt, mud and other loose particles from exterior surfaces with clean
+water.
+b. Wash with mild soap and warm water or with aircraft plastic cleaner. Use a soft
+cloth or sponge in a straight back and forth motion. Do not rub harshly
+c. Remove oil and grease with a cloth moistened with kerosene.
+CAUTION
+Do not use gasoline, alcohol, benzene, carbon tetrachloride,
+thinner, acetone, or window cleaning sprays.
+d. After cleaning plastic surfaces, apply a thin coat of hard polishing wax. Rub
+lightly with a soft cloth. Do not use a circular motion.
+e. A severe scratch or mar in plastic can be removed by rubbing out the scratch
+with jeweler's rouge. Smooth both sides and apply wax.
+CLEANING HEADLINER, SIDE PANELS AND SEATS
+a. Clean headliner, side panels, and seats with a stiff bristle brush, and vacuum
+where necessary.
+b. Soiled upholstery, except leather, may be cleaned with a good upholstery
+cleaner suitable for the material. Carefully follow the manufacturer's
+instructions. Avoid soaking or harsh rubbing.
+CAUTION
+Solvent cleaners require adequate ventilation.
+c. Leather should be cleaned with saddle soap or a mild hand soap and water.
+HANDLING AND SERVICING
+ISSUED: JULY 12,1913 l0-4
+
+--- Page 102 ---
+CHEROKEE SIX - 3OO
+CLEANING CARPETS
+To clean carpets, first remove loose dirt with a whisk broom or yacuum. For soiledspots and stubborn stains use a noninflammable dry cleaning fluid. Floor carpets may be
+removed and cleaned like any household carpet.
+ENGINE AIR FILTER
+Removing Engine Air Filter (Serial Nos. 7440001 through 7540188)
+a. Remove the top cowling.
+b. The air filter is located on the lower left side of flre engine. Remove the thumb
+screws securing the cover. Remove the cover, then the filter.
+Removing Engine Air Filter (Serial Nos. 7640001 and up)
+a. Remove the access door on left side of lower cowl.
+b. Remove the wing nuts securing the filter. Remove ilre filter.
+Cleaning Engine Air Filter
+The injector air filter must be cleaned at least once every 50 hours, and more often,even daily, when operating in dusty conditions. Extra filten are inexpensive, and a spareshould be kept on hand for use as a rapid replacement.
+To clean the filter:
+a' Tap t\ _filter gently to remove dirt particles, being careful not to damage thefilter- DO NOT wash the filter in any liquid. DO NOT attempt to blow out dirtwith compressed air.
+b. If the filter is excessively dirty or shows any damage, replace it immediately.c. Wipe flre filter housing with a clean cloth soaked in unGaded gasoline. When thehousing is clean and dry, install the filter.
+Installation Of Engine Air Filter
+After cleaning or when replacing the filter, install the filter in the reverse order ofremoval.
+BRAKE SERVICE
+- The brake system is filled with MIL-H-S606 (petroleum base) hydraulic brake fluid. Thefluid level should be checked periodically or at every 100 hour inspection and replenished whennecessary. The brake reservoir is located on the left side of the fire wall in the enginecompartment. If the_ entire system must be refilled, fill with fluid under pressure from the biakeend of the system. This will eliminate air from the iystem.
+- .No adjustment of the brake clearances is necessary. If after extended service brake blocksbecoine excessively worn, they should be replaced with new segments.
+HANDLING AND SERVICING
+REVISED: JULY L7.L97Sr0-5
+
+--- Page 103 ---
+o
+Io\
+t_J
+7fo
+v)
+al
+o
+z
+AF22Eotr>ZZ
+''{r,)k t'rl
+"t-.lSr-O
+Y,Z
+urO\ \ '?:'ii'r'' i'r-
+\\
+\\
+\\ -/\ >./'--"'
+t17a
+/4,7/-,.--''' I
+( )t
+'t-a'
+--'<\ --'tll' )
+l't' -,,/
+,/
+\
+\\...
+/--
+)' \,
+/ )r\--- / /
+\
+\-l
+tl/.
+//l I
+I. BRAKE RESERVOIR \
+2. RIGHTBRAKEANDRUOOERPEDAL \3. LEFT BRAKE AND RUODER PEDAL
+4. RIGHT BRAKE CYLINOER
+5. LEFT BRAKE CYLINDER
+6. BRAKEHANDLE
+7. HANDLE RELEASEBUTTON
+8. LINE, INLET
+9. CLEVIS PrN
+IO. MASTER CYLINDER ASSEMBLY
+II. BOLTASSEMBLY
+I2. TORGIUE TUBE
+I3. COPILOT'S RIGHT BRAKE ANO RUOOER.PE.PAL
+I4. COPILOT|S LEFT BRAKE AND RUDOER PEOAL\ I ''-t--------
+) _-)'
+-- ---'--''.'I
+rn
+7l
+frlrrt
+V)
+X
+I
+u)
+o
+
+--- Page 104 ---
+LANDING GE.{R SER\ICE
+The landrng gears us€ C,:":--: .\:-:-...:: *:.:----,. : -r. : : ri:s-x;:t
+x 6 tube b'pe.The marn gear i::: ai: t ;.'. ::--.-; a-: ---: -:s: :ar ::: i
+TIRE INFLATION. this Sectio:. '
+Main wheels are removed b1' tai<rng off rhe i;: :a:. .r.€ t-: i:,: '-:: :rit : :: : :: u-.: i
+the brake segnent in place. afterwhich the wheel sLps eas:-, ::::. ::.: l''.,'
+The nose wheelisremoved by takingoff the axle nut ard rl'asher frorn c:: i::. i--:---: :-:
+the axle rod and plugs, lightty tapping out the axle tube, and then removhs LL: '*'::e. .::
+spacer tubes from between the fork. Wheels are replaced by reversing the procedure.
+Tires are removed from the wheels by deflating the tire, removing the through bolts. and
+separating the wheel halves.
+Landing gear oleo struts should be checked for proper strut exposure and visible leaks. The
+required extensions for the struts under normal static load (empty weight of airplane plus full
+fuel and oil) are 3-l/4 inches for the nose gear and 4-ll2 inches for the main gear.If the strut
+exposure is below that required, it should be determined whether air or oil is needed by first
+raising the airplane on jacks. Depress the valve core to allow air to escape from the strut housing
+chamber. Remove the filler plug and slowly raise the strut to full compression. If the fluid is
+then visible up to the bottom of the filler plug hole, only proper inflation with air is required.
+If fluid is below the bottom of the filler plug hole, oil should be added. Replace the plug
+with the valve core removed. Then attach a clear plastic hose to the valve stem of the filler plug
+and submerge the free end in a container of hydraulic nuid (MILH-5606). Fully compress and
+extend the strut several times, thus drawing fluid into the strut chamber and expelling air. To
+allow fluid to enter the bottom chamber of the nose gear strut housing, it is necessary to
+disconnect the torque link assembly and allow the strut to extend a full l0 inches. (The nose
+gear torque links need not be disconnected.) DO NOT allow the strut to extend beyond 12
+inches. When air bubbles cease to flow through the hose, fully comprcss the strut, remove the
+filler plug, and again check the fluid level. When the fluid level is correct, disconnect the hose,
+reinstall the valve core, the filler plug, and the main gear torque links.
+With the fluid in the strut housing at the proper level, attach a strut pump to the air valve.
+With the airplane on the ground under normal static load, inflate the oleo strut to the proper
+strut exposure.
+In jacking the airplane for landing gear or other service, two hydraulic jacks and a tail stand
+should be used. At least 350 pounds of ballast should be placed on the base of the tail stand
+before jacking up the airplane. The hydraulic jacks are placed under the jack points orr the
+underside of the wings, and the airplane is jacked up until the tail stand can be attached to the
+tail skid. After attaching the tail stand and adding ballast, the jacking can be continued until the
+airplane is at the desired height.
+IIANDLING A}TD SERVICING
+ISSLJED: JULY 12,1973-..- :=:= -*Y il[-:
+1G7
+
+--- Page 105 ---
+CHEROKEE SIX - 3OO
+PROPELLER SERVICE
+The spinner and backing plate should be cleaned and inspected for cracks frequently.
+Before each flight the propeller should be inspected for nicks, scratches, and corrosion. If
+found, they should be repaired as soon as possible by a rated mechanic, since a nick or scratch
+causes an area of increased stress which can lead to serious cracks or the loss of a propeller tip.
+The back face of the blades should be painted when necessary with flat black paint to retard
+glare. To prevent corosion, the zurface should be cleaned and waxed periodically.
+OIL REQUIREMENTS
+The oil capacity of the Lycoming IO-540 series engine is 12 quarts, and the minimum safe
+quantity is 2-314 quarts. It is recommended that the oil be changed every 50 hours and sooner
+under unfavorable operating conditions. The following grades are recommended for the
+specified temperatures:
+TEMPERATURE
+Temperatures above 60o F
+Temperatures between 30"F and 90oF
+Temperatures between OoF and 7Oo F
+Temperatures below l0oFGRADE
+s.A.8.50
+s.A.E.40
+s.A.E.30
+s.A.E.20
+IIAI\TDLING AIYD SERVICING
+ISSUED: ruLY 12,1973FUEL SYSTEM
+SERVICING FUEL SYSTEM
+' At every 50 hour inspection, the fuel screens in the strainer and in the injector must
+be cleaned. The screen in the injector is located in the housing where the fuel line connects
+to the injector. The fuel strainer is located under the floor panel and is accessible for
+cleaning through an access plate on the underside of the fuselage. After cleaning, a small
+amount of grease applied to the gasket will facilitate reassembly.
+FUEL REQUIREMENTS
+Aviation grade fuel with a minimum octane of 100/130 must be used in this airplane.
+Since the use of lower gtrades can cause serious engine damage in a short period of time, the
+engine warranty is invalidated by the use of lower octanes.
+FILLING FUEL TANKS
+Observe all safety precautions required when handling gasoline. Fill the fue-l*tanks
+through the filler located on the forward slope of the wings and on the wing tips. Each
+wing tank holds a maximum of 25 U.S. gallons, and each wing tip tank holds a maximum
+of 17 U.S. gallons. When using less than the standard 84 gallon capacity, fuel shotrld be
+distributed equally between each side, with the wing tip tanks filled first.
+1o-8
+
+--- Page 106 ---
+CHEROKEE SIX - 3OO
+Fuel Drain
+DRAINING FIJEL VALVES AND LINES
+The fuel system strould be drained before the first flight of the day and after refueling
+to avoid the accumulation of water and sediment. Each fuel tank has an individual quick
+drain at the lower inboard corner. A fuel strainer with a fuel system quick drain is located
+at the lowest point in the system. Each tank strould be drained through its individual quick
+drain until sufficient fuel has flowed to ensure the removal of any contaminants. The fuel
+system quick drain, operated by a lever inside the cabin on the right forward edge of the
+wing spar housing, should be opened while the fuel selector valve is moved through the
+four different. tank positions. Enough fuel should flow at each position to allow the fuel
+lines and the strainer to clear. A container is provided for the checking of fuel clarity. (See
+Description - Airplane and Systems Section for more detailed instructions.)
+CAUTION
+When draining fuel, be sure that no fire lnzard exists before
+starting the engine.
+After using the fuel system quick drain, check from outside the airplane to be sure
+that it has closed completely and is not leaking.
+HANDLING AND SERVICING
+ISSUED: JULY 12,1973 1G9
+
+--- Page 107 ---
+CHEROKEE SIX.3OO
+DRAIMNG FI'EL SYSTEM
+The bulk of the fuel may be drained by opening the individual drain on each tank.
+The remaining fuel may be drained tfuough the fuel strainer. Any individual tank may be
+drained by closing the fuel selector valve and then draining the desired tank.
+TIRE INFLATTON
+For maximum service from the tires, keep them inflated to the proper pressures - 28-30
+psi for the nose gear and 3540 psi for the main gear. All wheels and tires are balanced before
+original installation,. and -the relationship. of tire, tube, and wheel should be maintained "upon
+reinstallation. Unbalanced wheels can cause extreme vibration in the landing gear; therefore, in
+the installation of new components, it may be necessary to rebalance the wheels with the tires
+mounted. When checking tire pressure, examine the tires for wear, cuts, bruises, and slippage.
+BATTERY SERVICE
+Access to the l2-volt battery is through a removable panel in the floor of the .forward
+bAggage compartment. The battery box has a plastic tube which is normally closed off with a
+chp and which should be opened occasionally to drain off any accumulation of liquid. The
+blttery should be checked for proper fluid level. DO NOT fill the battery above the baffle
+plates. DO NOT fill the battery with acid - use water only. A hydrometer check will determine
+the percent of charge in the battery.
+If the battery is not up to charge, recharge starting at a 4 amp rate and finishing with a 2
+amp rate. Quick charges are not recommended.
+FACTS YOU SHOULD KNOI{
+The Federal Aviation Administration (FAA) occasionally publishes Airworthiness
+Directives (ADs) that apply to specific groups of aircraft. They are mandatory changes and are
+to be complied with within a time limit set by the FAA. When an AD is issued, it is sent to the
+latest registered owner of the affected aircraft and also to subscribers of the service. The owner
+should periodically check with his Piper dealer or A & P mechanic to see whether he has the
+latest issued AD against Ns aircraft.
+Piper Aircraft Corporation takes a continuing interest in having the owner get the most
+efficient use from his aircraft and keeping it in the best mechanical condition. Consequently,
+Piper Aircraft from time to time issues Service Bulletins, Service Letters and Service Spares
+Letters relating to the aircraft.
+Service Bulletins are of special importance and should be complied with promptly,' These
+are sent to the latest registered owners, distributors and dealers. Depending on the nature of the
+bulletin, material and labor allowances are usually applicable.
+TIANDLING AIYD SERVICING
+ISSUED: JULY t2,,1973 lGl0
+
+--- Page 108 ---
+CHEROKEE SIX.3OO
+Senice I.etters deal with product improvements and service hints pertaining to the aircraft.
+They are sent to dealers and distributors so they can properly service the aircraft and keep it up
+to date with the latest changes. Owners should give careful attention to the Service Letter
+information,
+Service Spares Letters offer improved parts, kits and optional equipment which were not
+available originally and which may be of interest to the owner.
+If an owner is not having his aircraft serviced by an Authorized Piper Service Center, he
+should periodically check with a Piper dealer or distributor to find out the latest information to
+keep his aircraft up to date.
+Piper Aircraft Corporation has a Subscription Service for the Service Bulletins, Service
+Letters and Service Spares Letters. This service is offered to interested persons such as owners,
+pilots and mechanics at a nominal fee, and may be obtained through Piper dealers and
+distributors. A Service Manual and revisions are available from a Piper dealer.
+Pilot's Operating Manual supplements are distributed by the manufacturer as necessary.
+These revisions and additions should be studied and put into the operating manual to keep it up
+to date. This manual contains important information about the operation of the aircraft and
+should be kept with the aircraft at all times, even after resale. Every owner, to avail himself of
+the Piper Aircraft Service Back-Up, ihould stay in close contaci with his Piper dealer or
+distributor so that he can receive the latest information.
+If the owner desires to have his aircraft modified, he must obtain FAA approval for the
+alteration. Major alterations accomplished in accordance with Advisory Circular 43.13-2, when
+performed by an A & P mechanic, may be approved by the local FAA office. Major alterations
+to the basic airfra(ne or systems not covered by AC 43.13-2 require a Supplemental Type
+Certificate.
+The owner or pilot is required to asceriain that the following Aircraft Papen are in order
+and in the aircraft.
+a. To be displayed in the aircraft at all times:
+l. Aircraft Airworthiness Certificate Form FAA-I 3628.
+2. Aircraft Registration Certificate Form FAA-500A.
+3. Aircraft Radio Station License Form FCC404A. if transmitters are installed.
+b. To be carried in the aircraft at all times:
+l. Aircraft Fligtrt Manual.
+2. Weight and Balance data plus a copy of the latest Repair and Alteration Form
+FAA-337, if applicable.
+3. Aircraft equipment [ist.
+Although the aircraft and engine log books are not required to be in the aircraft, they
+should be made available upon request. Log books should be complete and up to date. Good
+records will reduce maintenance cost by giving the mechanic information about what has or has
+not been accomplished.
+HAT.IDLING AI{ D SERVICING
+ISSUED: JULY 12,1973tGl1
+
+--- Page 109 ---
+CHEROKEE STX - 3OO
+PREVENTIVE MA IN TENAI{CE
+The holder of a Pilot Certificate issued under FAR Part 6l may perform certain preventive
+maintenance described in FAR Part 43. This maintenance may be performed only on an aircraft
+which the pilot owns or operates and which is not used in air carrier sewice. The following is a
+list of the maintenance which the pilot may perform:
+l. Repair or change tires and tubes.
+2. Service landing gear wheel bearings, such as cleaning, greasing or replacing.
+3. Service landing gear shock struts by adding air, oil or both.
+4. Replace defective safety wire and cotter keys.
+5. Lubrication not requiring disassembly other than removal of non-structural items
+. such as cover. plates, cowling'or fairings.
+6. Replenish hydraulic fluid in the hydraulic reservoirs.
+7. Refinish the exterior or interior of the aircraft (excluding balanced control surfaces)
+when removal or disassembly of any primary structure or operating system is not
+required.
+Replace side windows and safety belts.
+Replace seats or seat parts with replacement parts approved for the aircraft.
+Replace bulbs, reflectors and lenses of position and landing lights.
+Replace cowling not requiring removal of the propeller.
+Replace, clean or set spark plug clearance.
+Replace any hose connection, except hydraulic connections, with replacement hoses.
+Replace pre-fabricated fuel lines.
+Replace the battery and check fluid level and specific gravity.8.
+9.
+10.
+i
+;i
+il.
+1
+3.
+t4.
+15.
+Although the above work is allowed by law, each individual should make a self analysis as
+to whether he has the ability to perform the work.
+If the above work is accomplished, an entry must be made in the appropriate log book.
+The entry should contain:
+l. The date the work was accomplished.
+2. Description of the work.
+3. Number of hours on the aircraft.
+4. The certificate number of pilot performing the work.
+5. Signature of the individual doing the work.
+HANDLING AND SERVICING
+ISSUED: JULY t2.1973 1Gt2
+
+--- Page 110 ---
+CHEROKEE SIX.3OO
+REQUIRED SERVICE AND INSPECTION PERIODS
+Piper Aircraft Corporation provides for the initial and first 50-hour inspection, at no
+charge to the owner. The Owner Service Agreement which the owner receives upon delivery of
+the aircraft should be kept in the aircraft at all times. This identifies him to authorized Piper
+dealers and entrtles the owner to receive service in accordance with the regular sengice agreement
+terms. This agreement also entitles the transient owner full warranty by any Piper dealer iu the
+world.
+One hundrcd hour inspections are required by law if the aircraft is used commercially.
+Otherwise this inspection is left to the discretion of the owner. This inspection is a complete
+check of the aircraft and its systems, and should be accomplished by a Piper Authorized Service
+Center or by a qualified aircraft and power plant mechanic who owns or works for a reputable
+repair shop. The inspection is listed, in detail, in the inspection report of the appropriate Service
+Manual.
+An annual inspection is required once a year to keep the Airworthiness Certificate in
+effect. It is the same as a l0Ghour inspection except that it must be signed by an Inspection
+Authorized (IA) mechanic or a General Aviation District Ofice (GADO) representative. This
+inspection is required whether the aircraft is operated commercially or for pleasure.
+A Progressive Maintenance program is approved by the FAA and is available to the owner.
+It involves routine and detailed inspections at 50-hour intervals. The purpose of the program is
+to allow maximum utilization of the aircraft, to reduce maintenance inspection cost and to
+maintain a maximum standard of continuous airworthiness. Complete details are available from
+Piper dealers.
+A spectographic analysis of the oil is available from several sources. This system, if used
+intelligently, provides a good check of the internal condition of the engine. For th,is system to
+be accurate, oil samples must be sent in at regular intervals, and induction air filters must be
+cleaned or changed regularly.
+HANDLNG .jL\D SER\-ICNG
+ISSTIED: JULY l:. 19-3 1G.l3
+
+--- Page 111 ---
+r-.1 L,. .r i\.
+IDENTIFICATIOII
+LETTERTYPE OF LUBRICANTS
+LUDRICANT
+LUBRICATING OIL, GENERAL
+PURPOSE. LOW TEMP,
+IUARICATING OIL, AIRCFAFT
+RECI'ROCATING ET'IOII{E
+IPISIO'{} GFAOE AS SPECIFIED
+SAE SOABOVE 6OCT AIB TEMP.
+sAE ao 30c TO 906F Atn IEMP.
+SAE il OE 
+'O TOOF AlR TEMP.
+SAE 20 EELOIV TOOF AIR TEMP.
+HYDFAULIC FLUID,
+PEIROLEUM EASE
+GREASC, AIRCRAFT ATIO
+INSIFUME'{I, GEAR AT{O
+ActuAtoR scRE|l,
+GREASE. AIFCRAFT.
+HIGH TCMP.
+GREASE, LUBFICA'ION,
+GENERAL PURP6E. AIRCRAFT
+PARt(ER O.RING LUARrcAilT
+AERO LUSRIPLATE
+FLUORMAFAON RELEASE
+AGENI DRY LU3RICANTPREFERRED PFODUCT
+ANO VENDOFSPECIAL INSTRUCTIONS
+1. AIR FILTER TO CLEAN FILTEF, TAP GENTIY TO REMOVE OIRT
+PARTICLES. DO NOT ALOUV OUT IVITH COMPRESSED AIR OR USE OIL.
+REPLACE FILTER IF PUNCTURED OR:OAMAGED.
+2. BEARI.IGS ANO SUSHINGS. CLEAil EXTEBIOR YUITH A DRY TYPE SOLVENT
+SEFORE LUBRICATING.
+3. WHEEL BEARINGS . DISASSEMALE'ANO CLEAN WITH A DRY TYPE SOLVENT
+ASCERTAIN THAT GREASE IS PACKED BETWEEN IHE BEARING BOLLER
+AND CONE. OO I{OT ?ACK GREASE IN IIIHEEL HOUSING.
+4. OLEO STRUTS. HYOf,AULIC rufliP FCSERVOIF AiIO ARA(C FESEAVOIB ,
+FILL PEF INSTFITTIONS ON UNII OR CONTAINER, OR REFEF TOSEBVICE
+MATUAL.SECTION II.
+5. PROP€LIEB FEi,TOVE ONE OF T}iE TWO GREASE FITTINGS FOB EACH
+BLADE. APPLY GREASE THROUGH FITTTNG U]{TIL FRESH GREASE APPEARS
+AT HOLE OF REMOVEO FITTING.
+6. LUBRICATION POINTS . WIPE ALL LUBRICATION POI'{TS CLEAil OF OLO
+GREASE, OIL, DIRT, ETC. EEFOFE LUbRICATING.
+'. INTERVALS AETWEEN OIL CHAI{GES CAX BE INCA€ASEO AS MtrcH AS 100'6
+ON EilGINES EOUIPPED WITH FULL FLOW (CAFTRIDGE TVPE' OIL FILTERS -
+PROVIDED THE ELEMENT tS REPLACED EACH 50 XOURS OF OPGRATIOTTI.
+8, FUEL SELECTOF VALVE . LUBRICATE AREA IVHERE OETENT BALI MOVES
+ACROSS COVER PLATE.
+9. .O,RINC, 
+coilTno! SHAFT BuSHING DIsAssEMaLE o-RtITG BETAIi{EB
+PLATES FBOM I''ISTRUMENI PANEL- LUBBICATE O.RING AND REASSEMBLE.
+IO. A]LEROII HINGES WIIH TEFI-ON SLEEVES SHOULD NOT BE LUBRICATED.
+AILEBOII I{INGES Y{ITHOUT TETLOil SLEEVES SHOT.IID FTRST BE CLEANED
+-WITH A DRY IYPE SOLV€NT THEN LUBRICAT€O WITH M|L.L.78'O
+LUBRICATING OIL.
+11. THIS TNAiISMISSION TO BE I/2 FULL OF GBEASS. APPLY GREASE DURING. ASSEMELY A'IID LUBRICATE TFANSMISSION BALL NUT AND SCREW IIIITH
+MtL€.23827 GREAS€.
+12. Apply FLUoRocAnaoN DRy ruBRrbANT To DooR sEALs AT LEAsr oNcE
+A MONTH TO PREVENT THE SEAL FROM STICI(I'{G. ANO IMPROVE SEAITilG
+CHARACTERISTICS.
+NOTES
+PITO'T AI{D PASSENGEF SEATS . LUBRICATE TRACK ROLLERS AND STOP
+Plt{S AS REOU|FED. ITYPE OF LUBBIQAI{T: "A")
+WHEEL BEAFTNGS REOUIRE CLEAXING AND REPACXING AFTER EXPOSURE
+TO AN ABNORMAL OUANTTTV OF V'ATER.
+FUEL SELECTOR VALVE LUBBICATE FUEI SELECTOR VALVE AS
+R€OUIRED. REfEB IO PIPEN SEFVICE LETTEB ilO.35'I.
+SEE LVCOITI]NG S€RVICE INSTRUCTIONS NO. IOI{ FOR USE OF DETERGENT
+orL.
+CAUTIONS
+1. OO NOT USE HYDRAULIC FLUID IIITH A CASTOB OlI OR ESTER AASE.
+2. DO NOT OVER.LUBRICATE COCKPIT CO]TTROLS.
+3. DO NOT APPLY LUBRICATT TO RUABER PARTS.A
+BsPEClFlCATlOtrl
+MrL.L-70tO
+MtL.L.60t2
+F
+G
+H
+IMrL.H.5o0|B
+Mrt.G.236?'
+MIL€.77t I
+#MS-l22TEXACO MARRAK ALL
+PUFPOSE GREASE,
+MOSIL GREASE 77
+IOR MOEILUX EP2I,
+SHELL ALVAI{IA EP
+GREASE 2
+FISKE 8R6.
+FEFIT{ING CO.
+TTITPIE
+1.
+2.
+3.
+{.?
+$
+E
+z*ttAF
+i^-7ZEo(r>
+e3F v,(g
+"s3
+S3 Lubrication Nomenclaturea
+ra
+oxErrt
+v,
+X
+a
+u)oo
+
+--- Page 112 ---
+-a;
+t,i
+t-;--
+B)
+.-ra<t.\
+\tlrI
++
+-:a
+>=
+.E
+- l-l3'a --
+Q=-l
+-F.
+r)
+I.F
+I
+HANDLING AND SERVTCING
+ISSUED: JULY 12,1973 l0-15
+
+--- Page 113 ---
+BERLIN AVIONICS
+3]-55 DONALD DOUGLAS LOOP S
+SANTA MONTCA, CA. 90405
+FAA REPAIR STATION Ebur109k
+WEIGHT AND BALANCE REPORT *** REVISED EQUIPME}TT LISTq
+----oal _
+--5: G-^
+.:--:::a:: Ubbel
+--tr (r /rT
+-:-- :::a'i Registration
+l'1':':::..:n Gross WeiqhtPIPER
+PA32-300
+32-7 44001 4
+N7801_A
+3400 LBSq
+?.='.-:sei weight and balance computations are based on previous
+::--a :a:eo 02/L9/04-
+WEIGHT
+(LBS )ARM MOMENT
+( IN/LBS )
+;:.=..-:CJS EMPTY WEIGHT
+??-;...:3US USEFUL LOAD
+' ::-:PMENI REMOVED *
+:.i:3e- Serial #
+u37703
+53 079
+4323230
+ADDED *
+Serial #KII.T.G COM/NAV
+KrNG VOR/LOC
+TRIMBLE GPS
+Description( IN)
+s.0 69 .5
+1 n '7 1 n
+I v hv \Descript.ion
+l: _:6A
+,.Ai 1LlB0510706
+971,2 61r_ 5
+59404427
+:EA trMPTY WETGHT
+l;:'r; -'SEFUL LOAD
+!!:-..:YT]},l GROSS 9IEIGHTGARMTN"VOR/LOC
+GAR GPS/COM/NAV
+GARMIN ANTENNA1.5
+5.5
+u.f,
+2075.!
+1,324.9
+3400 .0q72.0
+59 . s
+59 .0347.50
+71.00
+r aa n FLJZ -Va
+108.00
+45L .7 5
+29.50
+74.88 r-55373.20
